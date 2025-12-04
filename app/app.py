@@ -12,9 +12,12 @@ from werkzeug.utils import secure_filename
 
 from app.jm import JMeterRunner
 from app.parser import JTLParser
+from flask import jsonify
+from flask_cors import CORS
 
 # Point Flask to templates/static inside app/
 app = Flask(__name__, template_folder="templates", static_folder="static")
+CORS(app)
 
 BASE_TMP = Path("/tmp/jmx_controller_sessions")
 BASE_TMP.mkdir(parents=True, exist_ok=True)
@@ -523,9 +526,5 @@ def delete_session(sid):
 
     return jsonify({"message": "deleted", "session_id": sid})
 
-
-if __name__ == "__main__":
-    # For local debugging only; in Docker use gunicorn or similar
-    app.run(host="0.0.0.0", port=5000, debug=True)
 
 
