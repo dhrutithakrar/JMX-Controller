@@ -126,11 +126,16 @@ def upload_jmx():
 
 @app.route("/start", methods=["POST"])
 def start_test():
+    data = request.get_json() or {}
+    sid = data.get("session_id", "demo")
+    
+    # DEMO MODE - BYPASS ALL JMETER CODE
     return jsonify({
-        "message": "demo_started", 
-        "session_id": request.json.get("session_id", "demo"),
+        "message": "demo_started",
+        "session_id": sid,
         "status": "running"
     })
+
         
     #if not sid or sid not in SESSIONS:
     #    return jsonify({"error": "Invalid session"}), 400
