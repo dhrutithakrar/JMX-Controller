@@ -1,0 +1,6 @@
+body { background: var(--bs-body-bg); }
+.card { border: 1px solid var(--bs-border-color); }
+.card-header { font-weight: 600; }
+.badge strong { margin-right: 6px; }
+.progress { height: 8px; }
+.chartjs-render-monitor { filter: saturate(1.05); }

@@ -1,0 +1,1574 @@
+2025-12-03 14:41:59,182 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-12-03 14:41:59,200 INFO o.a.j.JMeter: Loading user properties from: /opt/jmeter/bin/user.properties
+2025-12-03 14:41:59,201 INFO o.a.j.JMeter: Loading system properties from: /opt/jmeter/bin/system.properties
+2025-12-03 14:41:59,202 INFO o.a.j.JMeter: Setting JMeter property: jmeter.save.saveservice.output_format=csv
+2025-12-03 14:41:59,202 INFO o.a.j.JMeter: Setting JMeter property: jmeter.save.saveservice.autoflush=true
+2025-12-03 14:41:59,206 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2025-12-03 14:41:59,207 INFO o.a.j.JMeter: Version 5.6.2
+2025-12-03 14:41:59,207 INFO o.a.j.JMeter: java.version=11.0.29
+2025-12-03 14:41:59,208 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2025-12-03 14:41:59,208 INFO o.a.j.JMeter: os.name=Linux
+2025-12-03 14:41:59,208 INFO o.a.j.JMeter: os.arch=amd64
+2025-12-03 14:41:59,209 INFO o.a.j.JMeter: os.version=6.6.87.2-microsoft-standard-WSL2
+2025-12-03 14:41:59,209 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-12-03 14:41:59,210 INFO o.a.j.JMeter: java.awt.headless=true
+2025-12-03 14:41:59,210 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-12-03 14:41:59,210 INFO o.a.j.JMeter: Available Processors =8
+2025-12-03 14:41:59,216 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-12-03 14:41:59,217 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-12-03 14:41:59,218 INFO o.a.j.JMeter: JMeterHome=/opt/jmeter
+2025-12-03 14:41:59,218 INFO o.a.j.JMeter: user.dir  =/tmp/jmx_controller_sessions/c05278c4ff6c4bd7a6c35d9112606c3a
+2025-12-03 14:41:59,219 INFO o.a.j.JMeter: PWD       =/tmp/jmx_controller_sessions/c05278c4ff6c4bd7a6c35d9112606c3a
+2025-12-03 14:41:59,219 INFO o.a.j.JMeter: IP: 172.18.0.2 Name: 4f01ce84063d FullName: 4f01ce84063d
+2025-12-03 14:41:59,231 INFO o.a.j.s.FileServer: Default base='/tmp/jmx_controller_sessions/c05278c4ff6c4bd7a6c35d9112606c3a'
+2025-12-03 14:41:59,233 INFO o.a.j.s.FileServer: Set new base='/tmp/jmx_controller_sessions/c05278c4ff6c4bd7a6c35d9112606c3a'
+2025-12-03 14:41:59,404 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-12-03 14:41:59,424 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-12-03 14:41:59,427 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-12-03 14:41:59,430 INFO o.a.j.s.SaveService: Loading file: /tmp/jmx_controller_sessions/c05278c4ff6c4bd7a6c35d9112606c3a/SanityTest_Demo.jmx
+2025-12-03 14:41:59,510 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-12-03 14:41:59,511 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-12-03 14:41:59,511 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-12-03 14:41:59,511 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-12-03 14:41:59,512 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-12-03 14:41:59,512 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-12-03 14:41:59,964 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-12-03 14:41:59,965 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-12-03 14:41:59,965 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-12-03 14:41:59,966 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-12-03 14:42:00,043 INFO o.a.j.JMeter: Creating summariser <summary>
+2025-12-03 14:42:00,065 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-12-03 14:42:00,068 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-12-03 14:42:00,069 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-12-03 14:42:00,084 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2025-12-03 14:42:00,085 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2025-12-03 14:42:00,403 INFO o.a.j.JMeter: Running test (1764772920403)
+2025-12-03 14:42:00,429 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : AZ_DR_PostPaid_API_getAPServiceDashboard
+2025-12-03 14:42:00,430 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_getAPServiceDashboard.
+2025-12-03 14:42:00,431 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,431 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,435 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-12-03 14:42:00,437 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : AZ_DR_PostPaid_API_GET_BALANCE
+2025-12-03 14:42:00,440 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_BALANCE.
+2025-12-03 14:42:00,441 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,442 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,446 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2025-12-03 14:42:00,449 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : AZ_DR_PostPaid_API_servicedetails
+2025-12-03 14:42:00,452 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_servicedetails.
+2025-12-03 14:42:00,454 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,455 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,457 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2025-12-03 14:42:00,458 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 4 : AZ_DR_PostPaid_API_GET_accountGetByFilter
+2025-12-03 14:42:00,459 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_accountGetByFilter.
+2025-12-03 14:42:00,459 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,460 INFO o.a.j.t.ThreadGroup: Starting thread group... number=4 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,463 INFO o.a.j.t.ThreadGroup: Started thread group number 4
+2025-12-03 14:42:00,464 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 5 : AZ_DR_PostPaid_API_GET_retrieveCredithistory
+2025-12-03 14:42:00,464 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_retrieveCredithistory.
+2025-12-03 14:42:00,464 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,465 INFO o.a.j.t.ThreadGroup: Starting thread group... number=5 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,468 INFO o.a.j.t.ThreadGroup: Started thread group number 5
+2025-12-03 14:42:00,470 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 6 : AZ_DR_PostPaid_API_balancesummary
+2025-12-03 14:42:00,471 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_balancesummary.
+2025-12-03 14:42:00,471 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,472 INFO o.a.j.t.ThreadGroup: Starting thread group... number=6 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,472 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_BALANCE 2-1
+2025-12-03 14:42:00,472 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_retrieveCredithistory 5-1
+2025-12-03 14:42:00,471 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_servicedetails 3-1
+2025-12-03 14:42:00,471 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_accountGetByFilter 4-1
+2025-12-03 14:42:00,474 INFO o.a.j.s.FileServer: Stored: AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+2025-12-03 14:42:00,473 INFO o.a.j.t.ThreadGroup: Started thread group number 6
+2025-12-03 14:42:00,475 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 7 : AZ_DR_PostPaid_API_GET_customerbills
+2025-12-03 14:42:00,472 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_getAPServiceDashboard 1-1
+2025-12-03 14:42:00,476 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_customerbills.
+2025-12-03 14:42:00,476 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,474 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_balancesummary 6-1
+2025-12-03 14:42:00,477 INFO o.a.j.t.ThreadGroup: Starting thread group... number=7 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,480 INFO o.a.j.t.ThreadGroup: Started thread group number 7
+2025-12-03 14:42:00,475 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,483 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_BALANCE 2-1
+2025-12-03 14:42:00,475 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,478 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,481 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_customerbills 7-1
+2025-12-03 14:42:00,476 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,476 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,478 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,491 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_accountGetByFilter 4-1
+2025-12-03 14:42:00,492 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_balancesummary 6-1
+2025-12-03 14:42:00,482 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 8 : AZ_DR_PostPaid_API_queueExternalNotificationTriggers
+2025-12-03 14:42:00,491 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_servicedetails 3-1
+2025-12-03 14:42:00,496 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_queueExternalNotificationTriggers.
+2025-12-03 14:42:00,489 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,488 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_retrieveCredithistory 5-1
+2025-12-03 14:42:00,498 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,498 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_getAPServiceDashboard 1-1
+2025-12-03 14:42:00,498 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_customerbills 7-1
+2025-12-03 14:42:00,499 INFO o.a.j.t.ThreadGroup: Starting thread group... number=8 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,500 INFO o.a.j.t.ThreadGroup: Started thread group number 8
+2025-12-03 14:42:00,501 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 9 : AZ_DR_PostPaid_API_scoreUpdate 
+2025-12-03 14:42:00,501 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_scoreUpdate .
+2025-12-03 14:42:00,501 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_queueExternalNotificationTriggers 8-1
+2025-12-03 14:42:00,502 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,502 INFO o.a.j.t.ThreadGroup: Starting thread group... number=9 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,502 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,503 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_queueExternalNotificationTriggers 8-1
+2025-12-03 14:42:00,504 INFO o.a.j.t.ThreadGroup: Started thread group number 9
+2025-12-03 14:42:00,505 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_scoreUpdate  9-1
+2025-12-03 14:42:00,505 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 10 : AZ_DR_PostPaid_API_Get_spendinglimit
+2025-12-03 14:42:00,506 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,506 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_Get_spendinglimit.
+2025-12-03 14:42:00,507 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_scoreUpdate  9-1
+2025-12-03 14:42:00,507 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,507 INFO o.a.j.t.ThreadGroup: Starting thread group... number=10 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,509 INFO o.a.j.t.ThreadGroup: Started thread group number 10
+2025-12-03 14:42:00,509 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 11 : AZ_DR_PostPaid_API_LoadResources 
+2025-12-03 14:42:00,509 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_LoadResources .
+2025-12-03 14:42:00,509 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_Get_spendinglimit 10-1
+2025-12-03 14:42:00,510 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,510 INFO o.a.j.t.ThreadGroup: Starting thread group... number=11 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,510 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,511 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_Get_spendinglimit 10-1
+2025-12-03 14:42:00,511 INFO o.a.j.t.ThreadGroup: Started thread group number 11
+2025-12-03 14:42:00,512 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 12 : AZ_DR_POSTPAID_AccountUpdate
+2025-12-03 14:42:00,512 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_LoadResources  11-1
+2025-12-03 14:42:00,513 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_POSTPAID_AccountUpdate.
+2025-12-03 14:42:00,514 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,514 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,515 INFO o.a.j.t.ThreadGroup: Starting thread group... number=12 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,515 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_LoadResources  11-1
+2025-12-03 14:42:00,516 INFO o.a.j.t.ThreadGroup: Started thread group number 12
+2025-12-03 14:42:00,517 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 13 : AZ_DR_PUT_UpdateIndividualInfoBase
+2025-12-03 14:42:00,517 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PUT_UpdateIndividualInfoBase.
+2025-12-03 14:42:00,517 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_POSTPAID_AccountUpdate 12-1
+2025-12-03 14:42:00,518 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,519 INFO o.a.j.t.ThreadGroup: Starting thread group... number=13 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,519 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,520 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_POSTPAID_AccountUpdate 12-1
+2025-12-03 14:42:00,520 INFO o.a.j.t.ThreadGroup: Started thread group number 13
+2025-12-03 14:42:00,521 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 14 : AZ_DR_POSTPAID_patchindividualbyindividualID
+2025-12-03 14:42:00,521 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_POSTPAID_patchindividualbyindividualID.
+2025-12-03 14:42:00,521 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PUT_UpdateIndividualInfoBase 13-1
+2025-12-03 14:42:00,522 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,523 INFO o.a.j.t.ThreadGroup: Starting thread group... number=14 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,523 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,524 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PUT_UpdateIndividualInfoBase 13-1
+2025-12-03 14:42:00,525 INFO o.a.j.t.ThreadGroup: Started thread group number 14
+2025-12-03 14:42:00,526 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 15 : AZ_DR_PostPaid_API_accountGetById  
+2025-12-03 14:42:00,526 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_accountGetById  .
+2025-12-03 14:42:00,526 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_POSTPAID_patchindividualbyindividualID 14-1
+2025-12-03 14:42:00,526 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,527 INFO o.a.j.t.ThreadGroup: Starting thread group... number=15 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,527 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,527 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_POSTPAID_patchindividualbyindividualID 14-1
+2025-12-03 14:42:00,528 INFO o.a.j.t.ThreadGroup: Started thread group number 15
+2025-12-03 14:42:00,529 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 16 : AZ_DR_PostPaid_API_CreateInteractionAndNote
+2025-12-03 14:42:00,529 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_CreateInteractionAndNote.
+2025-12-03 14:42:00,529 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,529 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_accountGetById   15-1
+2025-12-03 14:42:00,529 INFO o.a.j.t.ThreadGroup: Starting thread group... number=16 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,529 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,530 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_accountGetById   15-1
+2025-12-03 14:42:00,530 INFO o.a.j.t.ThreadGroup: Started thread group number 16
+2025-12-03 14:42:00,531 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 17 : AZ_DR_PostPaid_API_CompatibilityCheck
+2025-12-03 14:42:00,531 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_CompatibilityCheck.
+2025-12-03 14:42:00,531 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,532 INFO o.a.j.t.ThreadGroup: Starting thread group... number=17 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,533 INFO o.a.j.t.ThreadGroup: Started thread group number 17
+2025-12-03 14:42:00,533 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_CreateInteractionAndNote 16-1
+2025-12-03 14:42:00,533 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 18 : AZ_DR_PostPaid_API_GetExtendedAttributes
+2025-12-03 14:42:00,534 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,534 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_CompatibilityCheck 17-1
+2025-12-03 14:42:00,534 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GetExtendedAttributes.
+2025-12-03 14:42:00,537 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_CreateInteractionAndNote 16-1
+2025-12-03 14:42:00,539 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,539 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,540 INFO o.a.j.t.ThreadGroup: Starting thread group... number=18 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,540 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_CompatibilityCheck 17-1
+2025-12-03 14:42:00,541 INFO o.a.j.t.ThreadGroup: Started thread group number 18
+2025-12-03 14:42:00,542 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 19 : AZ_DR_PostPaid_API_retrieveCartById
+2025-12-03 14:42:00,542 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_retrieveCartById.
+2025-12-03 14:42:00,542 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GetExtendedAttributes 18-1
+2025-12-03 14:42:00,542 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,543 INFO o.a.j.t.ThreadGroup: Starting thread group... number=19 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,543 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,543 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GetExtendedAttributes 18-1
+2025-12-03 14:42:00,544 INFO o.a.j.t.ThreadGroup: Started thread group number 19
+2025-12-03 14:42:00,544 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_retrieveCartById 19-1
+2025-12-03 14:42:00,545 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 20 : AZ_DR_PostPaid_API_GET_Findcarts
+2025-12-03 14:42:00,545 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_Findcarts.
+2025-12-03 14:42:00,545 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,546 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,546 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_retrieveCartById 19-1
+2025-12-03 14:42:00,546 INFO o.a.j.t.ThreadGroup: Starting thread group... number=20 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,547 INFO o.a.j.t.ThreadGroup: Started thread group number 20
+2025-12-03 14:42:00,548 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_Findcarts 20-1
+2025-12-03 14:42:00,554 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 21 : AZ_DR_PostPaid_API_GET_ServiceById
+2025-12-03 14:42:00,555 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,555 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_ServiceById.
+2025-12-03 14:42:00,556 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_Findcarts 20-1
+2025-12-03 14:42:00,556 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,557 INFO o.a.j.t.ThreadGroup: Starting thread group... number=21 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,558 INFO o.a.j.t.ThreadGroup: Started thread group number 21
+2025-12-03 14:42:00,558 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 22 : AZ_DR_PostPaid_API_recordexternalnotification
+2025-12-03 14:42:00,559 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_recordexternalnotification.
+2025-12-03 14:42:00,559 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_ServiceById 21-1
+2025-12-03 14:42:00,559 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,559 INFO o.a.j.t.ThreadGroup: Starting thread group... number=22 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,559 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,560 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_ServiceById 21-1
+2025-12-03 14:42:00,561 INFO o.a.j.t.ThreadGroup: Started thread group number 22
+2025-12-03 14:42:00,561 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_recordexternalnotification 22-1
+2025-12-03 14:42:00,563 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,563 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_recordexternalnotification 22-1
+2025-12-03 14:42:00,563 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 23 : AZ_DR_PostPaid_API_scoreRetrieve
+2025-12-03 14:42:00,564 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_scoreRetrieve.
+2025-12-03 14:42:00,566 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,566 INFO o.a.j.t.ThreadGroup: Starting thread group... number=23 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,567 INFO o.a.j.t.ThreadGroup: Started thread group number 23
+2025-12-03 14:42:00,568 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_scoreRetrieve 23-1
+2025-12-03 14:42:00,569 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,569 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_scoreRetrieve 23-1
+2025-12-03 14:42:00,569 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 24 : AZ_DR_PostPaid_API_offerEndOfPeriodDate
+2025-12-03 14:42:00,570 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_offerEndOfPeriodDate.
+2025-12-03 14:42:00,574 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,575 INFO o.a.j.t.ThreadGroup: Starting thread group... number=24 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,576 INFO o.a.j.t.ThreadGroup: Started thread group number 24
+2025-12-03 14:42:00,578 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 25 : AZ_DR_PostPaid_API_GET_PortRequest
+2025-12-03 14:42:00,578 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_offerEndOfPeriodDate 24-1
+2025-12-03 14:42:00,579 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_PortRequest.
+2025-12-03 14:42:00,580 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,581 INFO o.a.j.t.ThreadGroup: Starting thread group... number=25 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,580 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,583 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_PortRequest 25-1
+2025-12-03 14:42:00,582 INFO o.a.j.t.ThreadGroup: Started thread group number 25
+2025-12-03 14:42:00,583 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_offerEndOfPeriodDate 24-1
+2025-12-03 14:42:00,584 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,584 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 26 : AZ_DR_PostPaid_API_CustomerOrderGetForAccount
+2025-12-03 14:42:00,584 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_PortRequest 25-1
+2025-12-03 14:42:00,585 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_CustomerOrderGetForAccount.
+2025-12-03 14:42:00,586 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,586 INFO o.a.j.t.ThreadGroup: Starting thread group... number=26 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,587 INFO o.a.j.t.ThreadGroup: Started thread group number 26
+2025-12-03 14:42:00,588 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 27 : AZ_DR_PostPaid_API_cfsSubscriberHistoryFindVTwo_rc
+2025-12-03 14:42:00,588 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_cfsSubscriberHistoryFindVTwo_rc.
+2025-12-03 14:42:00,588 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,588 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_CustomerOrderGetForAccount 26-1
+2025-12-03 14:42:00,589 INFO o.a.j.t.ThreadGroup: Starting thread group... number=27 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,589 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,590 INFO o.a.j.t.ThreadGroup: Started thread group number 27
+2025-12-03 14:42:00,590 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 28 : AZ_DR_PostPaid_API_cfsSubscriberHistoryFindVTwo_usage
+2025-12-03 14:42:00,591 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_cfsSubscriberHistoryFindVTwo_usage.
+2025-12-03 14:42:00,591 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,590 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_CustomerOrderGetForAccount 26-1
+2025-12-03 14:42:00,590 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_cfsSubscriberHistoryFindVTwo_rc 27-1
+2025-12-03 14:42:00,591 INFO o.a.j.t.ThreadGroup: Starting thread group... number=28 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,592 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,593 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_cfsSubscriberHistoryFindVTwo_rc 27-1
+2025-12-03 14:42:00,594 INFO o.a.j.t.ThreadGroup: Started thread group number 28
+2025-12-03 14:42:00,594 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 29 : AZ_DR_PostPaid_API_RetrieveProducts
+2025-12-03 14:42:00,594 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_RetrieveProducts.
+2025-12-03 14:42:00,594 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,594 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_cfsSubscriberHistoryFindVTwo_usage 28-1
+2025-12-03 14:42:00,595 INFO o.a.j.t.ThreadGroup: Starting thread group... number=29 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,595 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,596 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_cfsSubscriberHistoryFindVTwo_usage 28-1
+2025-12-03 14:42:00,596 INFO o.a.j.t.ThreadGroup: Started thread group number 29
+2025-12-03 14:42:00,597 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_RetrieveProducts 29-1
+2025-12-03 14:42:00,598 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 30 : AZ_DR_PostPaid_API_GET_findCustomerInteractions
+2025-12-03 14:42:00,598 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_findCustomerInteractions.
+2025-12-03 14:42:00,598 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,598 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,599 INFO o.a.j.t.ThreadGroup: Starting thread group... number=30 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,599 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_RetrieveProducts 29-1
+2025-12-03 14:42:00,600 INFO o.a.j.t.ThreadGroup: Started thread group number 30
+2025-12-03 14:42:00,601 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 31 : AZ_DR_PostPaid_API_GET_CustomerBillBreakDown
+2025-12-03 14:42:00,602 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_CustomerBillBreakDown.
+2025-12-03 14:42:00,602 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_findCustomerInteractions 30-1
+2025-12-03 14:42:00,602 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,603 INFO o.a.j.t.ThreadGroup: Starting thread group... number=31 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,602 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,603 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_findCustomerInteractions 30-1
+2025-12-03 14:42:00,604 INFO o.a.j.t.ThreadGroup: Started thread group number 31
+2025-12-03 14:42:00,605 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_CustomerBillBreakDown 31-1
+2025-12-03 14:42:00,605 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 32 : AZ_DR_POSTPAID_srmresourceId
+2025-12-03 14:42:00,606 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_POSTPAID_srmresourceId.
+2025-12-03 14:42:00,606 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,606 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,606 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_CustomerBillBreakDown 31-1
+2025-12-03 14:42:00,607 INFO o.a.j.t.ThreadGroup: Starting thread group... number=32 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,608 INFO o.a.j.t.ThreadGroup: Started thread group number 32
+2025-12-03 14:42:00,608 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_POSTPAID_srmresourceId 32-1
+2025-12-03 14:42:00,609 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,610 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_POSTPAID_srmresourceId 32-1
+2025-12-03 14:42:00,609 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 33 : AZ_DR_PostPaid_API_createService
+2025-12-03 14:42:00,611 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_createService.
+2025-12-03 14:42:00,611 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,611 INFO o.a.j.t.ThreadGroup: Starting thread group... number=33 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,612 INFO o.a.j.t.ThreadGroup: Started thread group number 33
+2025-12-03 14:42:00,613 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_createService 33-1
+2025-12-03 14:42:00,613 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 34 : AZ_DR_PostPaid_API_OtpRequest
+2025-12-03 14:42:00,614 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_OtpRequest.
+2025-12-03 14:42:00,614 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,614 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,614 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_createService 33-1
+2025-12-03 14:42:00,615 INFO o.a.j.t.ThreadGroup: Starting thread group... number=34 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,616 INFO o.a.j.t.ThreadGroup: Started thread group number 34
+2025-12-03 14:42:00,616 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 35 : AZ_DR_PostPaid_API_OtpRequest_resend
+2025-12-03 14:42:00,617 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_OtpRequest_resend.
+2025-12-03 14:42:00,617 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_OtpRequest 34-1
+2025-12-03 14:42:00,617 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,618 INFO o.a.j.t.ThreadGroup: Starting thread group... number=35 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,618 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,620 INFO o.a.j.t.ThreadGroup: Started thread group number 35
+2025-12-03 14:42:00,621 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_OtpRequest 34-1
+2025-12-03 14:42:00,621 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_OtpRequest_resend 35-1
+2025-12-03 14:42:00,621 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 36 : AZ_DR_PostPaid_API_GET_customerPaymentsFind
+2025-12-03 14:42:00,622 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,623 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_customerPaymentsFind.
+2025-12-03 14:42:00,623 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_OtpRequest_resend 35-1
+2025-12-03 14:42:00,623 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,624 INFO o.a.j.t.ThreadGroup: Starting thread group... number=36 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,625 INFO o.a.j.t.ThreadGroup: Started thread group number 36
+2025-12-03 14:42:00,625 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_customerPaymentsFind 36-1
+2025-12-03 14:42:00,626 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 37 : AZ_DR_PostPaid_API_retrieveIndividualByIndividualId
+2025-12-03 14:42:00,626 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_retrieveIndividualByIndividualId.
+2025-12-03 14:42:00,626 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,626 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,627 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_customerPaymentsFind 36-1
+2025-12-03 14:42:00,627 INFO o.a.j.t.ThreadGroup: Starting thread group... number=37 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,629 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_retrieveIndividualByIndividualId 37-1
+2025-12-03 14:42:00,629 INFO o.a.j.t.ThreadGroup: Started thread group number 37
+2025-12-03 14:42:00,631 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 38 : AZ_DR_PostPaid_API_retrieveContactsByFilters
+2025-12-03 14:42:00,631 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_retrieveContactsByFilters.
+2025-12-03 14:42:00,632 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,631 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,632 INFO o.a.j.t.ThreadGroup: Starting thread group... number=38 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,633 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_retrieveIndividualByIndividualId 37-1
+2025-12-03 14:42:00,634 INFO o.a.j.t.ThreadGroup: Started thread group number 38
+2025-12-03 14:42:00,635 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 39 : AZ_DR_PostPaid_API_custBillDocumentFile
+2025-12-03 14:42:00,635 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_retrieveContactsByFilters 38-1
+2025-12-03 14:42:00,635 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_custBillDocumentFile.
+2025-12-03 14:42:00,636 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,636 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,636 INFO o.a.j.t.ThreadGroup: Starting thread group... number=39 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,636 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_retrieveContactsByFilters 38-1
+2025-12-03 14:42:00,638 INFO o.a.j.t.ThreadGroup: Started thread group number 39
+2025-12-03 14:42:00,638 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 40 : AZ_DR_PostPaid_API_GET_enumerations
+2025-12-03 14:42:00,638 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_enumerations.
+2025-12-03 14:42:00,638 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_custBillDocumentFile 39-1
+2025-12-03 14:42:00,639 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,639 INFO o.a.j.t.ThreadGroup: Starting thread group... number=40 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,639 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,640 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_custBillDocumentFile 39-1
+2025-12-03 14:42:00,640 INFO o.a.j.t.ThreadGroup: Started thread group number 40
+2025-12-03 14:42:00,641 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 41 : AZ_DR_PostPaid_API_RetrieveResources
+2025-12-03 14:42:00,641 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_enumerations 40-1
+2025-12-03 14:42:00,641 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_RetrieveResources.
+2025-12-03 14:42:00,641 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,641 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,642 INFO o.a.j.t.ThreadGroup: Starting thread group... number=41 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,642 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_enumerations 40-1
+2025-12-03 14:42:00,643 INFO o.a.j.t.ThreadGroup: Started thread group number 41
+2025-12-03 14:42:00,643 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 42 : AZ_DR_PostPaid_API_cfsGetByFilter
+2025-12-03 14:42:00,643 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_RetrieveResources 41-1
+2025-12-03 14:42:00,643 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_cfsGetByFilter.
+2025-12-03 14:42:00,644 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,644 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,644 INFO o.a.j.t.ThreadGroup: Starting thread group... number=42 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,644 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_RetrieveResources 41-1
+2025-12-03 14:42:00,645 INFO o.a.j.t.ThreadGroup: Started thread group number 42
+2025-12-03 14:42:00,646 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 43 : AZ_DR_PostPaid_API_ServiceUpdate
+2025-12-03 14:42:00,646 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_ServiceUpdate.
+2025-12-03 14:42:00,646 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_cfsGetByFilter 42-1
+2025-12-03 14:42:00,646 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,647 INFO o.a.j.t.ThreadGroup: Starting thread group... number=43 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,647 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,647 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_cfsGetByFilter 42-1
+2025-12-03 14:42:00,647 INFO o.a.j.t.ThreadGroup: Started thread group number 43
+2025-12-03 14:42:00,648 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 44 : AZ_DR_PostPaid_API_EntityOperation
+2025-12-03 14:42:00,648 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_ServiceUpdate 43-1
+2025-12-03 14:42:00,648 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_EntityOperation.
+2025-12-03 14:42:00,648 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,648 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,649 INFO o.a.j.t.ThreadGroup: Starting thread group... number=44 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,649 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_ServiceUpdate 43-1
+2025-12-03 14:42:00,649 INFO o.a.j.t.ThreadGroup: Started thread group number 44
+2025-12-03 14:42:00,650 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 45 : AZ_DR_PostPaid_API_CommonApplyPayment_AccintID
+2025-12-03 14:42:00,650 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_CommonApplyPayment_AccintID.
+2025-12-03 14:42:00,650 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_EntityOperation 44-1
+2025-12-03 14:42:00,650 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,650 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,651 INFO o.a.j.t.ThreadGroup: Starting thread group... number=45 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,651 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_EntityOperation 44-1
+2025-12-03 14:42:00,652 INFO o.a.j.t.ThreadGroup: Started thread group number 45
+2025-12-03 14:42:00,652 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 46 : AZ_DR_PostPaid_API_Direct_debit
+2025-12-03 14:42:00,652 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_CommonApplyPayment_AccintID 45-1
+2025-12-03 14:42:00,652 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_Direct_debit.
+2025-12-03 14:42:00,653 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,652 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,653 INFO o.a.j.t.ThreadGroup: Starting thread group... number=46 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,653 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_CommonApplyPayment_AccintID 45-1
+2025-12-03 14:42:00,654 INFO o.a.j.t.ThreadGroup: Started thread group number 46
+2025-12-03 14:42:00,654 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 47 : AZ_DR_PostPaid_API_CreateService650Notifcation 
+2025-12-03 14:42:00,654 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_Direct_debit 46-1
+2025-12-03 14:42:00,654 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_CreateService650Notifcation .
+2025-12-03 14:42:00,655 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,655 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,655 INFO o.a.j.t.ThreadGroup: Starting thread group... number=47 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,655 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_Direct_debit 46-1
+2025-12-03 14:42:00,656 INFO o.a.j.t.ThreadGroup: Started thread group number 47
+2025-12-03 14:42:00,656 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 48 : AZ_DR_PostPaid_API_getProcessCharge
+2025-12-03 14:42:00,656 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_CreateService650Notifcation  47-1
+2025-12-03 14:42:00,656 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_getProcessCharge.
+2025-12-03 14:42:00,656 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,657 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,657 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_CreateService650Notifcation  47-1
+2025-12-03 14:42:00,657 INFO o.a.j.t.ThreadGroup: Starting thread group... number=48 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,658 INFO o.a.j.t.ThreadGroup: Started thread group number 48
+2025-12-03 14:42:00,658 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 49 : AZ_DR_PostPaid_API_GET_getUnbilledInformation 
+2025-12-03 14:42:00,658 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_getUnbilledInformation .
+2025-12-03 14:42:00,658 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_getProcessCharge 48-1
+2025-12-03 14:42:00,658 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,659 INFO o.a.j.t.ThreadGroup: Starting thread group... number=49 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,659 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,659 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_getProcessCharge 48-1
+2025-12-03 14:42:00,659 INFO o.a.j.t.ThreadGroup: Started thread group number 49
+2025-12-03 14:42:00,660 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 50 : AZ_DR_PostPaid_API_GET_findproductoffering_MultipleCat
+2025-12-03 14:42:00,660 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_getUnbilledInformation  49-1
+2025-12-03 14:42:00,660 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_findproductoffering_MultipleCat.
+2025-12-03 14:42:00,660 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,661 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-12-03 14:42:00,661 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_getUnbilledInformation  49-1
+2025-12-03 14:42:00,661 INFO o.a.j.t.ThreadGroup: Starting thread group... number=50 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,662 INFO o.a.j.t.ThreadGroup: Started thread group number 50
+2025-12-03 14:42:00,663 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 51 : AZ_DR_PostPaid_API_GET_findproductoffering_Single_cat
+2025-12-03 14:42:00,663 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GET_findproductoffering_Single_cat.
+2025-12-03 14:42:00,663 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_findproductoffering_MultipleCat 50-1
+2025-12-03 14:42:00,663 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,664 INFO o.a.j.t.ThreadGroup: Starting thread group... number=51 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,664 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,664 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_findproductoffering_MultipleCat 50-1
+2025-12-03 14:42:00,665 INFO o.a.j.t.ThreadGroup: Started thread group number 51
+2025-12-03 14:42:00,665 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GET_findproductoffering_Single_cat 51-1
+2025-12-03 14:42:00,666 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 52 : AZ_DR_PostPaid_API_GPRS_ON_OFF
+2025-12-03 14:42:00,666 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,667 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_GPRS_ON_OFF.
+2025-12-03 14:42:00,667 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GET_findproductoffering_Single_cat 51-1
+2025-12-03 14:42:00,667 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,668 INFO o.a.j.t.ThreadGroup: Starting thread group... number=52 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,669 INFO o.a.j.t.ThreadGroup: Started thread group number 52
+2025-12-03 14:42:00,670 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 53 : AZ_DR_PostPaid_API_Romaing_ON_OFF
+2025-12-03 14:42:00,670 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_Romaing_ON_OFF.
+2025-12-03 14:42:00,670 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_GPRS_ON_OFF 52-1
+2025-12-03 14:42:00,670 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,671 INFO o.a.j.t.ThreadGroup: Starting thread group... number=53 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,671 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,671 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_GPRS_ON_OFF 52-1
+2025-12-03 14:42:00,672 INFO o.a.j.t.ThreadGroup: Started thread group number 53
+2025-12-03 14:42:00,672 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_Romaing_ON_OFF 53-1
+2025-12-03 14:42:00,672 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 54 : AZ_DR_PostPaid_API_SuspendResumeService
+2025-12-03 14:42:00,673 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_SuspendResumeService.
+2025-12-03 14:42:00,673 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,673 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,673 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_Romaing_ON_OFF 53-1
+2025-12-03 14:42:00,674 INFO o.a.j.t.ThreadGroup: Starting thread group... number=54 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,675 INFO o.a.j.t.ThreadGroup: Started thread group number 54
+2025-12-03 14:42:00,675 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 55 : AZ_DR_PostPaid_API_POST_UnsubscriberOptionalProduct
+2025-12-03 14:42:00,675 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_POST_UnsubscriberOptionalProduct.
+2025-12-03 14:42:00,675 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,675 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_SuspendResumeService 54-1
+2025-12-03 14:42:00,676 INFO o.a.j.t.ThreadGroup: Starting thread group... number=55 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,676 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,676 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_SuspendResumeService 54-1
+2025-12-03 14:42:00,677 INFO o.a.j.t.ThreadGroup: Started thread group number 55
+2025-12-03 14:42:00,677 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 56 : AZ_DR_PostPaid_API_POST_UnsubscriberOptionalProducts
+2025-12-03 14:42:00,677 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_POST_UnsubscriberOptionalProducts.
+2025-12-03 14:42:00,677 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_POST_UnsubscriberOptionalProduct 55-1
+2025-12-03 14:42:00,677 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,678 INFO o.a.j.t.ThreadGroup: Starting thread group... number=56 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,678 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,678 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_POST_UnsubscriberOptionalProduct 55-1
+2025-12-03 14:42:00,679 INFO o.a.j.t.ThreadGroup: Started thread group number 56
+2025-12-03 14:42:00,679 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_POST_UnsubscriberOptionalProducts 56-1
+2025-12-03 14:42:00,679 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 57 : AZ_DR_PostPaid_API_ReplacePricePlan
+2025-12-03 14:42:00,680 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_ReplacePricePlan.
+2025-12-03 14:42:00,680 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,680 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,680 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_POST_UnsubscriberOptionalProducts 56-1
+2025-12-03 14:42:00,680 INFO o.a.j.t.ThreadGroup: Starting thread group... number=57 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,681 INFO o.a.j.t.ThreadGroup: Started thread group number 57
+2025-12-03 14:42:00,682 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_ReplacePricePlan 57-1
+2025-12-03 14:42:00,682 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 58 : AZ_DR_PostPaid_ReplacePricePlan_CART
+2025-12-03 14:42:00,682 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_ReplacePricePlan_CART.
+2025-12-03 14:42:00,682 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,682 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,683 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_ReplacePricePlan 57-1
+2025-12-03 14:42:00,683 INFO o.a.j.t.ThreadGroup: Starting thread group... number=58 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,684 INFO o.a.j.t.ThreadGroup: Started thread group number 58
+2025-12-03 14:42:00,684 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 59 : AZ_DR_PostPaid_API_ManageAddons_RC
+2025-12-03 14:42:00,684 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_ManageAddons_RC.
+2025-12-03 14:42:00,684 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,684 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_ReplacePricePlan_CART 58-1
+2025-12-03 14:42:00,685 INFO o.a.j.t.ThreadGroup: Starting thread group... number=59 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,685 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,685 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_ReplacePricePlan_CART 58-1
+2025-12-03 14:42:00,685 INFO o.a.j.t.ThreadGroup: Started thread group number 59
+2025-12-03 14:42:00,686 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 60 : AZ_DR_PostPaid_API_Addon_OTT_CART
+2025-12-03 14:42:00,686 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_ManageAddons_RC 59-1
+2025-12-03 14:42:00,686 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_Addon_OTT_CART.
+2025-12-03 14:42:00,687 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,686 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,687 INFO o.a.j.t.ThreadGroup: Starting thread group... number=60 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,687 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_ManageAddons_RC 59-1
+2025-12-03 14:42:00,688 INFO o.a.j.t.ThreadGroup: Started thread group number 60
+2025-12-03 14:42:00,688 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 61 : AZ_DR_PostPaid_API_Addon_NRC
+2025-12-03 14:42:00,688 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group AZ_DR_PostPaid_API_Addon_NRC.
+2025-12-03 14:42:00,688 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_Addon_OTT_CART 60-1
+2025-12-03 14:42:00,688 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2025-12-03 14:42:00,689 INFO o.a.j.t.ThreadGroup: Starting thread group... number=61 threads=1 ramp-up=1 delayedStart=false
+2025-12-03 14:42:00,688 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,689 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_Addon_OTT_CART 60-1
+2025-12-03 14:42:00,689 INFO o.a.j.t.ThreadGroup: Started thread group number 61
+2025-12-03 14:42:00,689 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-12-03 14:42:00,690 INFO o.a.j.t.JMeterThread: Thread started: AZ_DR_PostPaid_API_Addon_NRC 61-1
+2025-12-03 14:42:00,691 ERROR o.a.j.t.JMeterThread: Test failed!
+java.lang.IllegalArgumentException: Could not read file header line for file AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:283) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.initVars(CSVDataSet.java:216) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.config.CSVDataSet.iterationStart(CSVDataSet.java:171) ~[ApacheJMeter_components.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterationStart(GenericController.java:412) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.fireIterEvents(GenericController.java:404) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.GenericController.next(GenericController.java:170) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.control.LoopController.next(LoopController.java:119) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.AbstractThreadGroup.next(AbstractThreadGroup.java:109) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:266) [ApacheJMeter_core.jar:5.6.2]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.IllegalArgumentException: File AZ_DR_A24_Kabinetim_GET_retrieveContactsByFilters_credentials.csv must exist and be readable
+	at org.apache.jmeter.services.FileServer.createBufferedReader(FileServer.java:424) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:340) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.readLine(FileServer.java:324) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.services.FileServer.reserveFile(FileServer.java:272) ~[ApacheJMeter_core.jar:5.6.2]
+	... 9 more
+2025-12-03 14:42:00,692 INFO o.a.j.t.JMeterThread: Thread finished: AZ_DR_PostPaid_API_Addon_NRC 61-1
+2025-12-03 14:42:00,692 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-12-03 14:42:00,694 INFO o.a.j.r.Summariser: summary =      0 in 00:00:00 = ******/s Avg:     0 Min: 9223372036854775807 Max: -9223372036854775808 Err:     0 (0.00%)

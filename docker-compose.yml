@@ -1,0 +1,13 @@
+services:
+  jmx-web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: jmx-controller
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - JMETER_VERSION=5.6.2
+    volumes:
+      - ./sessions:/tmp/jmx_controller_sessions

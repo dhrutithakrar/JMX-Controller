@@ -1,0 +1,1508 @@
+1764761593629,404,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,404,0,0
+1764761594041,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,384,0
+1764761594426,944,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,944,0,0
+1764761595371,142,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10031,332,1,1,https://reqres.in/api/users/2,70,0,1
+1764761595371,71,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,994,209,1,1,http://reqres.in/api/users/2,70,0,1
+1764761595443,70,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9037,123,1,1,https://reqres.in/api/users/2,70,0,0
+1764761595571,364,POST,403,Forbidden,Thread Group 1-1,text,false,,9107,233,1,1,https://reqres.in/api/users,364,0,0
+1764761595936,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,407,0
+1764761596343,372,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,372,0,0
+1764761596715,136,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9979,332,1,1,https://reqres.in/api/users/2,49,0,2
+1764761596715,49,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,49,0,2
+1764761596764,87,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8993,123,1,1,https://reqres.in/api/users/2,87,0,0
+1764761596922,385,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,385,0,0
+1764761597307,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,447,0
+1764761597755,468,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,468,0,0
+1764761598223,144,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,59,0,2
+1764761598223,59,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,59,0,2
+1764761598282,85,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,85,0,0
+1764761598506,399,POST,403,Forbidden,Thread Group 1-1,text,false,,9110,233,1,1,https://reqres.in/api/users,399,0,0
+1764761598905,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,363,0
+1764761599269,366,put,403,Forbidden,Thread Group 1-1,text,false,,9114,241,1,1,https://reqres.in/api/users/2,366,0,0
+1764761599635,142,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,42,0,2
+1764761599635,42,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,42,0,2
+1764761599678,99,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,98,0,0
+1764761599834,373,POST,403,Forbidden,Thread Group 1-1,text,false,,9108,233,1,1,https://reqres.in/api/users,373,0,0
+1764761600207,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,408,0
+1764761600615,379,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,379,0,0
+1764761600994,131,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,49,0,2
+1764761600994,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,992,209,1,1,http://reqres.in/api/users/2,49,0,2
+1764761601044,81,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,81,0,0
+1764761601188,395,POST,403,Forbidden,Thread Group 1-1,text,false,,9146,233,1,1,https://reqres.in/api/users,395,0,0
+1764761601583,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,478,0
+1764761602062,393,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,393,0,0
+1764761602455,136,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,85,0,2
+1764761602455,85,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,85,0,2
+1764761602540,51,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9021,123,1,1,https://reqres.in/api/users/2,51,0,0
+1764761602647,397,POST,403,Forbidden,Thread Group 1-1,text,false,,9114,233,1,1,https://reqres.in/api/users,397,0,0
+1764761603044,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,423,0
+1764761603467,409,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,409,0,0
+1764761603876,107,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,49,0,2
+1764761603876,49,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,49,0,2
+1764761603925,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761604046,391,POST,403,Forbidden,Thread Group 1-1,text,false,,9121,233,1,1,https://reqres.in/api/users,391,0,0
+1764761604437,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,409,0
+1764761604846,382,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,382,0,0
+1764761605229,155,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10023,332,1,1,https://reqres.in/api/users/2,94,0,2
+1764761605229,94,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,94,0,2
+1764761605323,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9033,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761605448,365,POST,403,Forbidden,Thread Group 1-1,text,false,,9098,233,1,1,https://reqres.in/api/users,365,0,0
+1764761605813,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,400,0
+1764761606213,367,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,366,0,0
+1764761606580,99,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9993,332,1,1,https://reqres.in/api/users/2,45,0,2
+1764761606580,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,45,0,2
+1764761606625,54,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,54,0,0
+1764761606776,427,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,427,0,0
+1764761607203,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,405,0
+1764761607608,501,put,403,Forbidden,Thread Group 1-1,text,false,,9126,241,1,1,https://reqres.in/api/users/2,501,0,0
+1764761608110,128,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9972,332,1,1,https://reqres.in/api/users/2,52,0,1
+1764761608110,52,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,52,0,1
+1764761608163,75,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8988,123,1,1,https://reqres.in/api/users/2,75,0,0
+1764761608304,648,POST,403,Forbidden,Thread Group 1-1,text,false,,9140,233,1,1,https://reqres.in/api/users,648,0,0
+1764761608952,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,640,0
+1764761609592,544,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,544,0,0
+1764761610138,140,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,78,0,1
+1764761610138,78,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,78,0,1
+1764761610216,62,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9023,123,1,1,https://reqres.in/api/users/2,62,0,0
+1764761610345,440,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,440,0,0
+1764761610785,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,402,0
+1764761611188,393,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,392,0,0
+1764761611581,115,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9991,332,1,1,https://reqres.in/api/users/2,52,0,1
+1764761611581,52,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,52,0,1
+1764761611633,63,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9009,123,1,1,https://reqres.in/api/users/2,62,0,0
+1764761611762,404,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,404,0,0
+1764761612167,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,377,0
+1764761612544,372,put,403,Forbidden,Thread Group 1-1,text,false,,9149,241,1,1,https://reqres.in/api/users/2,372,0,0
+1764761612916,152,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10005,332,1,1,https://reqres.in/api/users/2,55,0,1
+1764761612916,55,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,55,0,1
+1764761612972,96,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,96,0,0
+1764761613144,403,POST,403,Forbidden,Thread Group 1-1,text,false,,9128,233,1,1,https://reqres.in/api/users,403,0,0
+1764761613547,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,406,0
+1764761613953,385,put,403,Forbidden,Thread Group 1-1,text,false,,9124,241,1,1,https://reqres.in/api/users/2,385,0,0
+1764761614338,115,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10033,332,1,1,https://reqres.in/api/users/2,47,0,2
+1764761614338,47,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,996,209,1,1,http://reqres.in/api/users/2,47,0,2
+1764761614385,68,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9037,123,1,1,https://reqres.in/api/users/2,68,0,0
+1764761614512,406,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,406,0,0
+1764761614919,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,423,0
+1764761615342,426,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,426,0,0
+1764761615769,162,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9984,332,1,1,https://reqres.in/api/users/2,73,0,1
+1764761615769,73,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,992,209,1,1,http://reqres.in/api/users/2,73,0,1
+1764761615843,88,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8992,123,1,1,https://reqres.in/api/users/2,88,0,0
+1764761615994,384,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,384,0,0
+1764761616378,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,381,0
+1764761616759,404,put,403,Forbidden,Thread Group 1-1,text,false,,9161,241,1,1,https://reqres.in/api/users/2,404,0,0
+1764761617163,120,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,41,0,2
+1764761617163,42,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,41,0,2
+1764761617205,78,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,78,0,0
+1764761617381,386,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,386,0,0
+1764761617765,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,406,0
+1764761618171,417,put,403,Forbidden,Thread Group 1-1,text,false,,9121,241,1,1,https://reqres.in/api/users/2,417,0,0
+1764761618588,136,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10009,332,1,1,https://reqres.in/api/users/2,50,0,2
+1764761618588,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,50,0,2
+1764761618638,86,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,86,0,0
+1764761618784,513,POST,403,Forbidden,Thread Group 1-1,text,false,,9114,233,1,1,https://reqres.in/api/users,513,0,0
+1764761619298,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,419,0
+1764761619717,389,put,403,Forbidden,Thread Group 1-1,text,false,,9148,241,1,1,https://reqres.in/api/users/2,389,0,0
+1764761620107,147,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10023,332,1,1,https://reqres.in/api/users/2,56,0,2
+1764761620107,56,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,56,0,2
+1764761620164,90,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9039,123,1,1,https://reqres.in/api/users/2,90,0,0
+1764761620365,407,POST,403,Forbidden,Thread Group 1-1,text,false,,9096,233,1,1,https://reqres.in/api/users,407,0,0
+1764761620772,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,418,0
+1764761621190,436,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,436,0,0
+1764761621626,110,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9976,332,1,1,https://reqres.in/api/users/2,49,0,2
+1764761621626,49,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,49,0,2
+1764761621675,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8990,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761621807,381,POST,403,Forbidden,Thread Group 1-1,text,false,,9098,233,1,1,https://reqres.in/api/users,381,0,0
+1764761622188,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,398,0
+1764761622587,403,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,403,0,0
+1764761622990,127,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,64,0,10
+1764761622990,64,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,992,209,1,1,http://reqres.in/api/users/2,64,0,10
+1764761623054,63,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,63,0,0
+1764761623183,382,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,382,0,0
+1764761623565,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,410,0
+1764761623975,409,put,403,Forbidden,Thread Group 1-1,text,false,,9126,241,1,1,https://reqres.in/api/users/2,409,0,0
+1764761624384,112,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,54,0,2
+1764761624384,54,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,54,0,2
+1764761624438,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761624560,441,POST,403,Forbidden,Thread Group 1-1,text,false,,9107,233,1,1,https://reqres.in/api/users,441,0,0
+1764761625001,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,417,0
+1764761625419,412,put,403,Forbidden,Thread Group 1-1,text,false,,9151,241,1,1,https://reqres.in/api/users/2,412,0,0
+1764761625832,111,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9990,332,1,1,https://reqres.in/api/users/2,50,0,1
+1764761625832,51,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,996,209,1,1,http://reqres.in/api/users/2,50,0,1
+1764761625883,60,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8994,123,1,1,https://reqres.in/api/users/2,60,0,0
+1764761626015,439,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,439,0,0
+1764761626454,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,402,0
+1764761626857,374,put,403,Forbidden,Thread Group 1-1,text,false,,9153,241,1,1,https://reqres.in/api/users/2,373,0,0
+1764761627231,107,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10025,332,1,1,https://reqres.in/api/users/2,48,0,3
+1764761627231,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,48,0,3
+1764761627280,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9037,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761627407,401,POST,403,Forbidden,Thread Group 1-1,text,false,,9128,233,1,1,https://reqres.in/api/users,401,0,0
+1764761627808,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,411,0
+1764761628219,407,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,407,0,0
+1764761628626,134,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9991,332,1,1,https://reqres.in/api/users/2,45,0,2
+1764761628626,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,45,0,2
+1764761628672,88,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,88,0,0
+1764761628851,426,POST,403,Forbidden,Thread Group 1-1,text,false,,9128,233,1,1,https://reqres.in/api/users,426,0,0
+1764761629277,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,373,0
+1764761629650,405,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,405,0,0
+1764761630055,122,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9984,332,1,1,https://reqres.in/api/users/2,64,0,2
+1764761630055,64,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,64,0,2
+1764761630119,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8994,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761630234,406,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,406,0,0
+1764761630640,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,454,0
+1764761631094,519,put,403,Forbidden,Thread Group 1-1,text,false,,9142,241,1,1,https://reqres.in/api/users/2,519,0,0
+1764761631614,120,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10000,332,1,1,https://reqres.in/api/users/2,58,0,1
+1764761631614,58,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,58,0,1
+1764761631672,62,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9016,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761631816,401,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,401,0,0
+1764761632217,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,387,0
+1764761632605,370,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,370,0,0
+1764761632975,101,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,40,0,2
+1764761632975,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,40,0,2
+1764761633015,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761633135,381,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,380,0,0
+1764761633516,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,405,0
+1764761633921,406,put,403,Forbidden,Thread Group 1-1,text,false,,9128,241,1,1,https://reqres.in/api/users/2,406,0,0
+1764761634327,90,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,37,0,1
+1764761634327,37,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,994,209,1,1,http://reqres.in/api/users/2,37,0,1
+1764761634364,53,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,53,0,0
+1764761634468,402,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,402,0,0
+1764761634870,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,441,0
+1764761635312,377,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,377,0,0
+1764761635689,119,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,45,0,1
+1764761635689,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,45,0,1
+1764761635734,74,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,74,0,0
+1764761635858,400,POST,403,Forbidden,Thread Group 1-1,text,false,,9121,233,1,1,https://reqres.in/api/users,400,0,0
+1764761636258,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,367,0
+1764761636626,432,put,403,Forbidden,Thread Group 1-1,text,false,,9149,241,1,1,https://reqres.in/api/users/2,432,0,0
+1764761637058,200,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,80,0,2
+1764761637058,80,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,80,0,2
+1764761637138,120,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,120,0,0
+1764761637327,379,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,379,0,0
+1764761637706,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,413,0
+1764761638119,378,put,403,Forbidden,Thread Group 1-1,text,false,,9152,241,1,1,https://reqres.in/api/users/2,378,0,0
+1764761638497,104,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10021,332,1,1,https://reqres.in/api/users/2,53,0,2
+1764761638497,53,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,53,0,2
+1764761638550,51,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9037,123,1,1,https://reqres.in/api/users/2,51,0,0
+1764761638668,380,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,380,0,0
+1764761639048,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,415,0
+1764761639463,399,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,399,0,0
+1764761639863,107,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9984,332,1,1,https://reqres.in/api/users/2,52,0,1
+1764761639863,52,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,52,0,1
+1764761639916,54,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8998,123,1,1,https://reqres.in/api/users/2,53,0,0
+1764761640024,397,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,397,0,0
+1764761640422,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,438,0
+1764761640860,372,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,372,0,0
+1764761641232,113,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10011,332,1,1,https://reqres.in/api/users/2,56,0,2
+1764761641232,56,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,992,209,1,1,http://reqres.in/api/users/2,56,0,2
+1764761641288,57,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,57,0,0
+1764761641419,407,POST,403,Forbidden,Thread Group 1-1,text,false,,9140,233,1,1,https://reqres.in/api/users,407,0,0
+1764761641827,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,401,0
+1764761642228,452,put,403,Forbidden,Thread Group 1-1,text,false,,9149,241,1,1,https://reqres.in/api/users/2,452,0,0
+1764761642681,99,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10021,332,1,1,https://reqres.in/api/users/2,48,0,1
+1764761642681,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,48,0,1
+1764761642729,51,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9041,123,1,1,https://reqres.in/api/users/2,51,0,0
+1764761642831,389,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,389,0,0
+1764761643220,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,392,0
+1764761643612,375,put,403,Forbidden,Thread Group 1-1,text,false,,9137,241,1,1,https://reqres.in/api/users/2,375,0,0
+1764761643987,136,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9993,332,1,1,https://reqres.in/api/users/2,49,0,2
+1764761643987,49,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,49,0,2
+1764761644036,87,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9009,123,1,1,https://reqres.in/api/users/2,87,0,0
+1764761644261,371,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,371,0,0
+1764761644632,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,407,0
+1764761645040,433,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,433,0,0
+1764761645473,166,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10023,332,1,1,https://reqres.in/api/users/2,53,0,2
+1764761645473,53,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,53,0,2
+1764761645526,113,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9033,123,1,1,https://reqres.in/api/users/2,113,0,0
+1764761645711,440,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,440,0,0
+1764761646152,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,424,0
+1764761646576,389,put,403,Forbidden,Thread Group 1-1,text,false,,9122,241,1,1,https://reqres.in/api/users/2,389,0,0
+1764761646965,107,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,47,0,2
+1764761646965,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,47,0,2
+1764761647013,59,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,59,0,0
+1764761647162,370,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,370,0,0
+1764761647530,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,458,0
+1764761647988,472,put,403,Forbidden,Thread Group 1-1,text,false,,9151,241,1,1,https://reqres.in/api/users/2,472,0,0
+1764761648461,139,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10015,332,1,1,https://reqres.in/api/users/2,45,0,1
+1764761648461,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,998,209,1,1,http://reqres.in/api/users/2,45,0,1
+1764761648506,94,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,94,0,0
+1764761648700,419,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,419,0,0
+1764761649119,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,444,0
+1764761649563,450,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,449,0,0
+1764761650013,171,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9991,332,1,1,https://reqres.in/api/users/2,76,0,1
+1764761650013,76,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,76,0,1
+1764761650089,95,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,94,0,0
+1764761650321,454,POST,403,Forbidden,Thread Group 1-1,text,false,,9110,233,1,1,https://reqres.in/api/users,454,0,0
+1764761650775,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,382,0
+1764761651157,405,put,403,Forbidden,Thread Group 1-1,text,false,,9149,241,1,1,https://reqres.in/api/users/2,405,0,0
+1764761651562,134,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9991,332,1,1,https://reqres.in/api/users/2,39,0,2
+1764761651562,39,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,39,0,2
+1764761651602,94,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,94,0,0
+1764761651751,401,POST,403,Forbidden,Thread Group 1-1,text,false,,9107,233,1,1,https://reqres.in/api/users,401,0,0
+1764761652153,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,368,0
+1764761652521,422,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,422,0,0
+1764761652943,172,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,47,0,2
+1764761652943,47,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,47,0,2
+1764761652990,125,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,124,0,92
+1764761653191,370,POST,403,Forbidden,Thread Group 1-1,text,false,,9092,233,1,1,https://reqres.in/api/users,370,0,0
+1764761653562,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,381,0
+1764761653943,396,put,403,Forbidden,Thread Group 1-1,text,false,,9116,241,1,1,https://reqres.in/api/users/2,396,0,0
+1764761654339,123,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10005,332,1,1,https://reqres.in/api/users/2,50,0,5
+1764761654339,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,50,0,5
+1764761654389,73,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,73,0,0
+1764761654551,389,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,389,0,0
+1764761654940,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,386,0
+1764761655326,392,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,392,0,0
+1764761655718,96,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9972,332,1,1,https://reqres.in/api/users/2,43,0,2
+1764761655718,44,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,43,0,2
+1764761655762,52,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8992,123,1,1,https://reqres.in/api/users/2,52,0,0
+1764761655922,390,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,390,0,0
+1764761656313,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,420,0
+1764761656733,404,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,404,0,0
+1764761657137,104,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,42,0,2
+1764761657137,42,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,42,0,2
+1764761657180,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761657307,361,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,361,0,0
+1764761657669,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,377,0
+1764761658046,400,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,400,0,0
+1764761658446,172,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10005,332,1,1,https://reqres.in/api/users/2,57,0,2
+1764761658446,57,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,57,0,2
+1764761658504,114,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,114,0,0
+1764761658683,2169,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,2169,0,0
+1764761660852,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,735,0
+1764761661587,463,put,403,Forbidden,Thread Group 1-1,text,false,,9171,241,1,1,https://reqres.in/api/users/2,463,0,0
+1764761662050,159,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,53,0,1
+1764761662050,53,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,53,0,1
+1764761662103,106,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9021,123,1,1,https://reqres.in/api/users/2,106,0,0
+1764761662268,390,POST,403,Forbidden,Thread Group 1-1,text,false,,9128,233,1,1,https://reqres.in/api/users,390,0,0
+1764761662658,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,445,0
+1764761663104,388,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,388,0,0
+1764761663493,156,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,53,0,1
+1764761663493,53,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,53,0,1
+1764761663546,103,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,103,0,0
+1764761663710,373,POST,403,Forbidden,Thread Group 1-1,text,false,,9112,233,1,1,https://reqres.in/api/users,372,0,0
+1764761664083,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,1015,0
+1764761665098,379,put,403,Forbidden,Thread Group 1-1,text,false,,9163,241,1,1,https://reqres.in/api/users/2,379,0,0
+1764761665477,120,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,50,0,2
+1764761665477,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,50,0,2
+1764761665527,70,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,70,0,0
+1764761665650,417,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,417,0,0
+1764761666067,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,379,0
+1764761666446,394,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,394,0,0
+1764761666841,202,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10013,332,1,1,https://reqres.in/api/users/2,48,0,1
+1764761666841,49,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,978,209,1,1,http://reqres.in/api/users/2,48,0,1
+1764761666890,153,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,153,0,0
+1764761667104,421,POST,403,Forbidden,Thread Group 1-1,text,false,,9138,233,1,1,https://reqres.in/api/users,421,0,0
+1764761667525,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,393,0
+1764761667918,678,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,678,0,0
+1764761668597,137,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,73,0,1
+1764761668597,73,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,73,0,1
+1764761668671,63,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,63,0,0
+1764761668794,391,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,391,0,0
+1764761669186,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,373,0
+1764761669559,435,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,435,0,0
+1764761669995,117,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10004,332,1,1,https://reqres.in/api/users/2,54,0,1
+1764761669995,54,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,987,209,1,1,http://reqres.in/api/users/2,54,0,1
+1764761670049,63,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,63,0,0
+1764761670171,395,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,395,0,0
+1764761670566,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,392,0
+1764761670958,376,put,403,Forbidden,Thread Group 1-1,text,false,,9169,241,1,1,https://reqres.in/api/users/2,376,0,0
+1764761671334,106,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10021,332,1,1,https://reqres.in/api/users/2,42,0,2
+1764761671334,43,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,42,0,2
+1764761671377,63,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,63,0,0
+1764761671490,373,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,373,0,0
+1764761671864,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,426,0
+1764761672290,361,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,361,0,0
+1764761672650,110,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,48,0,2
+1764761672650,49,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,48,0,2
+1764761672699,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761672819,409,POST,403,Forbidden,Thread Group 1-1,text,false,,9117,233,1,1,https://reqres.in/api/users,409,0,0
+1764761673228,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,391,0
+1764761673619,379,put,403,Forbidden,Thread Group 1-1,text,false,,9137,241,1,1,https://reqres.in/api/users/2,379,0,0
+1764761673998,112,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10006,332,1,1,https://reqres.in/api/users/2,48,0,1
+1764761673998,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,48,0,1
+1764761674046,64,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9020,123,1,1,https://reqres.in/api/users/2,64,0,0
+1764761674177,361,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,361,0,0
+1764761674538,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,383,0
+1764761674921,361,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,361,0,0
+1764761675283,128,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,40,0,1
+1764761675283,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,978,209,1,1,http://reqres.in/api/users/2,40,0,1
+1764761675324,87,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,87,0,0
+1764761675484,367,POST,403,Forbidden,Thread Group 1-1,text,false,,9107,233,1,1,https://reqres.in/api/users,367,0,0
+1764761675851,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,386,0
+1764761676237,355,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,355,0,0
+1764761676592,99,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9976,332,1,1,https://reqres.in/api/users/2,41,0,1
+1764761676592,41,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,41,0,1
+1764761676633,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8990,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761676745,373,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,373,0,0
+1764761677118,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,375,0
+1764761677491,402,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,402,0,0
+1764761677893,113,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10021,332,1,1,https://reqres.in/api/users/2,46,0,2
+1764761677893,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,46,0,2
+1764761677939,67,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9033,123,1,1,https://reqres.in/api/users/2,67,0,0
+1764761678060,378,POST,403,Forbidden,Thread Group 1-1,text,false,,9117,233,1,1,https://reqres.in/api/users,378,0,0
+1764761678438,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,378,0
+1764761678816,356,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,356,0,0
+1764761679172,123,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,64,0,1
+1764761679172,64,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,64,0,1
+1764761679237,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761679361,410,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,410,0,0
+1764761679771,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,461,0
+1764761680232,405,put,403,Forbidden,Thread Group 1-1,text,false,,9166,241,1,1,https://reqres.in/api/users/2,405,0,0
+1764761680637,199,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9998,332,1,1,https://reqres.in/api/users/2,54,0,1
+1764761680637,54,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,987,209,1,1,http://reqres.in/api/users/2,54,0,1
+1764761680691,145,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,145,0,0
+1764761680942,384,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,384,0,0
+1764761681326,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,401,0
+1764761681727,366,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,366,0,0
+1764761682093,181,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10013,332,1,1,https://reqres.in/api/users/2,111,0,2
+1764761682093,111,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,111,0,2
+1764761682205,69,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9029,123,1,1,https://reqres.in/api/users/2,69,0,0
+1764761682340,367,POST,403,Forbidden,Thread Group 1-1,text,false,,9117,233,1,1,https://reqres.in/api/users,367,0,0
+1764761682707,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,424,0
+1764761683132,394,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,394,0,0
+1764761683526,122,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10026,332,1,1,https://reqres.in/api/users/2,67,0,1
+1764761683526,67,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,987,209,1,1,http://reqres.in/api/users/2,67,0,1
+1764761683594,54,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9039,123,1,1,https://reqres.in/api/users/2,54,0,0
+1764761683706,373,POST,403,Forbidden,Thread Group 1-1,text,false,,9119,233,1,1,https://reqres.in/api/users,373,0,0
+1764761684079,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,367,0
+1764761684446,407,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,407,0,0
+1764761684853,180,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9974,332,1,1,https://reqres.in/api/users/2,54,0,4
+1764761684853,54,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,978,209,1,1,http://reqres.in/api/users/2,54,0,4
+1764761684907,126,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8996,123,1,1,https://reqres.in/api/users/2,126,0,0
+1764761685093,446,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,446,0,0
+1764761685539,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,363,0
+1764761685902,386,put,403,Forbidden,Thread Group 1-1,text,false,,9157,241,1,1,https://reqres.in/api/users/2,386,0,0
+1764761686288,185,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10009,332,1,1,https://reqres.in/api/users/2,78,0,2
+1764761686288,78,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,78,0,2
+1764761686366,107,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9025,123,1,1,https://reqres.in/api/users/2,107,0,0
+1764761686524,417,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,417,0,0
+1764761686941,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,400,0
+1764761687342,368,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,368,0,0
+1764761687710,109,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,51,0,2
+1764761687710,51,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,51,0,2
+1764761687761,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761688266,438,POST,403,Forbidden,Thread Group 1-1,text,false,,9138,233,1,1,https://reqres.in/api/users,438,0,0
+1764761688704,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,381,0
+1764761689085,418,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,418,0,0
+1764761689504,122,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9996,332,1,1,https://reqres.in/api/users/2,53,0,1
+1764761689504,53,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,981,209,1,1,http://reqres.in/api/users/2,53,0,1
+1764761689557,69,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,69,0,0
+1764761689688,382,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,382,0,0
+1764761690070,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,406,0
+1764761690477,393,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,393,0,0
+1764761690870,111,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,52,0,1
+1764761690870,52,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,52,0,1
+1764761690922,59,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,59,0,0
+1764761691125,391,POST,403,Forbidden,Thread Group 1-1,text,false,,9142,233,1,1,https://reqres.in/api/users,391,0,0
+1764761691516,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,397,0
+1764761691914,366,put,403,Forbidden,Thread Group 1-1,text,false,,9121,241,1,1,https://reqres.in/api/users/2,366,0,0
+1764761692280,107,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10028,332,1,1,https://reqres.in/api/users/2,47,0,2
+1764761692280,47,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,989,209,1,1,http://reqres.in/api/users/2,47,0,2
+1764761692327,60,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9039,123,1,1,https://reqres.in/api/users/2,60,0,0
+1764761692466,396,POST,403,Forbidden,Thread Group 1-1,text,false,,9114,233,1,1,https://reqres.in/api/users,396,0,0
+1764761692862,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,365,0
+1764761693227,368,put,403,Forbidden,Thread Group 1-1,text,false,,9171,241,1,1,https://reqres.in/api/users/2,368,0,0
+1764761693596,130,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10029,332,1,1,https://reqres.in/api/users/2,41,0,1
+1764761693596,41,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,41,0,1
+1764761693637,89,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9045,123,1,1,https://reqres.in/api/users/2,89,0,0
+1764761693788,439,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,439,0,0
+1764761694227,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,359,0
+1764761694587,434,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,434,0,0
+1764761695021,149,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10006,332,1,1,https://reqres.in/api/users/2,47,0,2
+1764761695021,47,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,983,209,1,1,http://reqres.in/api/users/2,47,0,2
+1764761695068,102,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9023,123,1,1,https://reqres.in/api/users/2,102,0,0
+1764761695248,429,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,429,0,0
+1764761695677,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,440,0
+1764761696118,413,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,413,0,0
+1764761696532,148,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10023,332,1,1,https://reqres.in/api/users/2,54,0,1
+1764761696532,54,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,54,0,1
+1764761696586,94,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,94,0,0
+1764761696744,400,POST,403,Forbidden,Thread Group 1-1,text,false,,9126,233,1,1,https://reqres.in/api/users,400,0,0
+1764761697144,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,407,0
+1764761697552,409,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,409,0,0
+1764761697961,117,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10009,332,1,1,https://reqres.in/api/users/2,50,0,1
+1764761697961,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,50,0,1
+1764761698011,67,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,67,0,0
+1764761698153,397,POST,403,Forbidden,Thread Group 1-1,text,false,,9138,233,1,1,https://reqres.in/api/users,397,0,0
+1764761698550,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,372,0
+1764761698922,632,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,632,0,0
+1764761699554,121,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10004,332,1,1,https://reqres.in/api/users/2,59,0,2
+1764761699554,59,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,987,209,1,1,http://reqres.in/api/users/2,59,0,2
+1764761699613,62,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,62,0,0
+1764761699746,403,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,403,0,0
+1764761700150,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,412,0
+1764761700562,426,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,426,0,0
+1764761700988,139,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,46,0,2
+1764761700988,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,46,0,2
+1764761701035,92,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,92,0,0
+1764761701237,363,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,363,0,0
+1764761701600,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,412,0
+1764761702012,362,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,362,0,0
+1764761702374,192,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9977,332,1,1,https://reqres.in/api/users/2,75,0,1
+1764761702374,75,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,987,209,1,1,http://reqres.in/api/users/2,75,0,1
+1764761702450,116,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8990,123,1,1,https://reqres.in/api/users/2,116,0,0
+1764761702638,383,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,383,0,0
+1764761703021,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,371,0
+1764761703392,442,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,442,0,0
+1764761703834,127,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,59,0,1
+1764761703834,59,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,59,0,1
+1764761703893,68,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,68,0,0
+1764761704025,401,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,401,0,0
+1764761704427,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,463,0
+1764761704890,395,put,403,Forbidden,Thread Group 1-1,text,false,,9114,241,1,1,https://reqres.in/api/users/2,395,0,0
+1764761705285,116,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,39,0,1
+1764761705285,39,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,39,0,1
+1764761705324,77,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,77,0,0
+1764761705467,396,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,396,0,0
+1764761705863,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,406,0
+1764761706270,544,put,403,Forbidden,Thread Group 1-1,text,false,,9150,241,1,1,https://reqres.in/api/users/2,544,0,0
+1764761706814,1101,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10017,332,1,1,https://reqres.in/api/users/2,1042,0,2
+1764761706814,1043,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,1042,0,2
+1764761707856,59,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,59,0,0
+1764761708013,441,POST,403,Forbidden,Thread Group 1-1,text,false,,9092,233,1,1,https://reqres.in/api/users,441,0,0
+1764761708454,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,375,0
+1764761708829,402,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,402,0,0
+1764761709231,107,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10021,332,1,1,https://reqres.in/api/users/2,53,0,1
+1764761709231,53,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,53,0,1
+1764761709284,54,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9039,123,1,1,https://reqres.in/api/users/2,54,0,0
+1764761709459,422,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,422,0,0
+1764761709881,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,397,0
+1764761710278,399,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,399,0,0
+1764761710677,94,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10009,332,1,1,https://reqres.in/api/users/2,37,0,1
+1764761710677,37,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,992,209,1,1,http://reqres.in/api/users/2,37,0,1
+1764761710714,57,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,57,0,0
+1764761710880,403,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,403,0,0
+1764761711284,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,406,0
+1764761711690,361,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,361,0,0
+1764761712051,98,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,41,0,3
+1764761712051,41,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,41,0,3
+1764761712093,56,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,56,0,0
+1764761712251,445,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,445,0,0
+1764761712695,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,386,0
+1764761713081,457,put,403,Forbidden,Thread Group 1-1,text,false,,9127,241,1,1,https://reqres.in/api/users/2,457,0,95
+1764761713538,105,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10005,332,1,1,https://reqres.in/api/users/2,36,0,2
+1764761713538,36,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,36,0,2
+1764761713574,69,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,69,0,0
+1764761713956,426,POST,403,Forbidden,Thread Group 1-1,text,false,,9135,233,1,1,https://reqres.in/api/users,426,0,0
+1764761714382,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,400,0
+1764761714782,378,put,403,Forbidden,Thread Group 1-1,text,false,,9126,241,1,1,https://reqres.in/api/users/2,378,0,0
+1764761715161,107,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9973,332,1,1,https://reqres.in/api/users/2,48,0,4
+1764761715161,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,48,0,4
+1764761715209,59,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8987,123,1,1,https://reqres.in/api/users/2,59,0,0
+1764761715328,384,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,384,0,0
+1764761715712,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,410,0
+1764761716122,675,put,403,Forbidden,Thread Group 1-1,text,false,,9144,241,1,1,https://reqres.in/api/users/2,675,0,0
+1764761716797,136,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,35,0,1
+1764761716797,35,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,35,0,1
+1764761716832,101,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,101,0,0
+1764761716986,394,POST,403,Forbidden,Thread Group 1-1,text,false,,9119,233,1,1,https://reqres.in/api/users,394,0,0
+1764761717380,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,370,0
+1764761717750,369,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,369,0,0
+1764761718119,138,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10006,332,1,1,https://reqres.in/api/users/2,45,0,2
+1764761718119,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,989,209,1,1,http://reqres.in/api/users/2,45,0,2
+1764761718164,93,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,93,0,0
+1764761718320,424,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,424,0,0
+1764761718744,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,381,0
+1764761719125,403,put,403,Forbidden,Thread Group 1-1,text,false,,9125,241,1,1,https://reqres.in/api/users/2,403,0,0
+1764761719529,138,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9992,332,1,1,https://reqres.in/api/users/2,40,0,2
+1764761719529,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,40,0,2
+1764761719570,97,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9010,123,1,1,https://reqres.in/api/users/2,97,0,0
+1764761719725,406,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,406,0,0
+1764761720132,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,361,0
+1764761720493,486,put,403,Forbidden,Thread Group 1-1,text,false,,9124,241,1,1,https://reqres.in/api/users/2,486,0,0
+1764761720980,168,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,55,0,1
+1764761720980,55,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,55,0,1
+1764761721036,112,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,111,0,0
+1764761721200,442,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,442,0,0
+1764761721642,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,391,0
+1764761722033,397,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,397,0,0
+1764761722431,137,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10014,332,1,1,https://reqres.in/api/users/2,37,0,1
+1764761722431,38,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,985,209,1,1,http://reqres.in/api/users/2,37,0,1
+1764761722469,99,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9029,123,1,1,https://reqres.in/api/users/2,98,0,0
+1764761722636,449,POST,403,Forbidden,Thread Group 1-1,text,false,,9107,233,1,1,https://reqres.in/api/users,449,0,0
+1764761723085,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,371,0
+1764761723457,371,put,403,Forbidden,Thread Group 1-1,text,false,,9116,241,1,1,https://reqres.in/api/users/2,371,0,0
+1764761723828,135,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,70,0,2
+1764761723828,71,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,70,0,2
+1764761723899,64,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,64,0,0
+1764761724029,393,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,393,0,0
+1764761724422,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,407,0
+1764761724829,465,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,465,0,0
+1764761725294,102,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9993,332,1,1,https://reqres.in/api/users/2,46,0,2
+1764761725294,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,46,0,2
+1764761725340,56,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,56,0,0
+1764761725459,358,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,358,0,0
+1764761725817,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,385,0
+1764761726203,384,put,403,Forbidden,Thread Group 1-1,text,false,,9165,241,1,1,https://reqres.in/api/users/2,384,0,0
+1764761726587,139,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10015,332,1,1,https://reqres.in/api/users/2,59,0,2
+1764761726587,60,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,59,0,2
+1764761726647,79,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9033,123,1,1,https://reqres.in/api/users/2,79,0,0
+1764761726783,358,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,358,0,0
+1764761727141,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,349,0
+1764761727491,377,put,403,Forbidden,Thread Group 1-1,text,false,,9122,241,1,1,https://reqres.in/api/users/2,377,0,0
+1764761727869,142,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9980,332,1,1,https://reqres.in/api/users/2,46,0,1
+1764761727869,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,46,0,1
+1764761727915,96,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8996,123,1,1,https://reqres.in/api/users/2,96,0,0
+1764761728073,384,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,384,0,0
+1764761728457,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,403,0
+1764761728860,418,put,403,Forbidden,Thread Group 1-1,text,false,,9116,241,1,1,https://reqres.in/api/users/2,418,0,0
+1764761729279,101,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,40,0,1
+1764761729279,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,40,0,1
+1764761729319,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761729442,376,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,376,0,0
+1764761729818,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,432,0
+1764761730250,353,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,353,0,0
+1764761730605,110,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10023,332,1,1,https://reqres.in/api/users/2,41,0,2
+1764761730605,41,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,41,0,2
+1764761730646,69,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,69,0,0
+1764761730811,387,POST,403,Forbidden,Thread Group 1-1,text,false,,9142,233,1,1,https://reqres.in/api/users,387,0,0
+1764761731198,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,364,0
+1764761731562,367,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,367,0,0
+1764761731929,102,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10025,332,1,1,https://reqres.in/api/users/2,44,0,2
+1764761731929,44,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,44,0,2
+1764761731973,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9037,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761732082,385,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,385,0,0
+1764761732468,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,383,0
+1764761732851,376,put,403,Forbidden,Thread Group 1-1,text,false,,9161,241,1,1,https://reqres.in/api/users/2,376,0,0
+1764761733227,106,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,37,0,1
+1764761733227,37,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,37,0,1
+1764761733264,69,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,69,0,0
+1764761733384,366,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,366,0,0
+1764761733750,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,396,0
+1764761734146,365,put,403,Forbidden,Thread Group 1-1,text,false,,9126,241,1,1,https://reqres.in/api/users/2,365,0,0
+1764761734512,107,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9993,332,1,1,https://reqres.in/api/users/2,40,0,1
+1764761734512,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,40,0,1
+1764761734552,67,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9009,123,1,1,https://reqres.in/api/users/2,67,0,0
+1764761734690,390,POST,403,Forbidden,Thread Group 1-1,text,false,,9119,233,1,1,https://reqres.in/api/users,390,0,0
+1764761735080,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,366,0
+1764761735447,374,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,374,0,0
+1764761735821,141,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10023,332,1,1,https://reqres.in/api/users/2,49,0,2
+1764761735821,49,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,49,0,2
+1764761735870,92,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9037,123,1,1,https://reqres.in/api/users/2,92,0,0
+1764761736024,355,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,355,0,0
+1764761736379,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,415,0
+1764761736795,444,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,444,0,0
+1764761737240,275,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10021,332,1,1,https://reqres.in/api/users/2,162,0,2
+1764761737240,162,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,162,0,2
+1764761737402,113,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9033,123,1,1,https://reqres.in/api/users/2,113,0,0
+1764761737681,369,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,369,0,0
+1764761738051,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,388,0
+1764761738440,598,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,598,0,0
+1764761739038,99,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9990,332,1,1,https://reqres.in/api/users/2,38,0,1
+1764761739038,38,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,38,0,1
+1764761739076,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9000,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761739188,377,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,377,0,0
+1764761739565,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,403,0
+1764761739968,421,put,403,Forbidden,Thread Group 1-1,text,false,,9116,241,1,1,https://reqres.in/api/users/2,421,0,0
+1764761740389,113,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9991,332,1,1,https://reqres.in/api/users/2,56,0,2
+1764761740389,56,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,56,0,2
+1764761740445,57,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,57,0,0
+1764761740566,558,POST,403,Forbidden,Thread Group 1-1,text,false,,9138,233,1,1,https://reqres.in/api/users,558,0,0
+1764761741124,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,521,0
+1764761741646,514,put,403,Forbidden,Thread Group 1-1,text,false,,9115,241,1,1,https://reqres.in/api/users/2,514,0,0
+1764761742160,201,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,46,0,2
+1764761742160,47,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,46,0,2
+1764761742207,154,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,154,0,0
+1764761742485,471,POST,403,Forbidden,Thread Group 1-1,text,false,,9097,233,1,1,https://reqres.in/api/users,471,0,0
+1764761742956,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,456,0
+1764761743412,368,put,403,Forbidden,Thread Group 1-1,text,false,,9137,241,1,1,https://reqres.in/api/users/2,368,0,0
+1764761743781,154,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9968,332,1,1,https://reqres.in/api/users/2,58,0,1
+1764761743781,59,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,58,0,1
+1764761743840,95,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8988,123,1,1,https://reqres.in/api/users/2,95,0,0
+1764761744005,551,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,551,0,0
+1764761744557,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,399,0
+1764761744956,416,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,415,0,0
+1764761745372,101,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9978,332,1,1,https://reqres.in/api/users/2,47,0,3
+1764761745372,47,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,47,0,3
+1764761745419,54,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8994,123,1,1,https://reqres.in/api/users/2,54,0,0
+1764761745531,397,POST,403,Forbidden,Thread Group 1-1,text,false,,9114,233,1,1,https://reqres.in/api/users,397,0,0
+1764761745928,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,368,0
+1764761746296,363,put,403,Forbidden,Thread Group 1-1,text,false,,9137,241,1,1,https://reqres.in/api/users/2,363,0,0
+1764761746659,127,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,61,0,2
+1764761746659,61,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,61,0,2
+1764761746721,65,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9009,123,1,1,https://reqres.in/api/users/2,65,0,0
+1764761746884,361,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,361,0,0
+1764761747245,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,369,0
+1764761747614,369,put,403,Forbidden,Thread Group 1-1,text,false,,9116,241,1,1,https://reqres.in/api/users/2,369,0,0
+1764761747984,101,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,40,0,1
+1764761747984,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,40,0,1
+1764761748025,60,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,60,0,0
+1764761748142,419,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,419,0,0
+1764761748561,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,389,0
+1764761748951,377,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,377,0,0
+1764761749328,122,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10023,332,1,1,https://reqres.in/api/users/2,66,0,2
+1764761749328,66,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,66,0,2
+1764761749394,56,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,56,0,0
+1764761749536,362,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,362,0,0
+1764761749898,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,392,0
+1764761750290,625,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,625,0,0
+1764761750915,97,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,37,0,2
+1764761750915,37,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,37,0,2
+1764761750953,59,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,59,0,0
+1764761751123,375,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,375,0,0
+1764761751498,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,367,0
+1764761751865,434,put,403,Forbidden,Thread Group 1-1,text,false,,9137,241,1,1,https://reqres.in/api/users/2,434,0,0
+1764761752299,114,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10017,332,1,1,https://reqres.in/api/users/2,65,0,2
+1764761752299,66,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,65,0,2
+1764761752365,48,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9037,123,1,1,https://reqres.in/api/users/2,48,0,0
+1764761752477,409,POST,403,Forbidden,Thread Group 1-1,text,false,,9105,233,1,1,https://reqres.in/api/users,409,0,0
+1764761752886,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,374,0
+1764761753261,369,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,369,0,0
+1764761753630,115,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,48,0,2
+1764761753630,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,48,0,2
+1764761753678,67,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,67,0,0
+1764761753881,356,POST,403,Forbidden,Thread Group 1-1,text,false,,9114,233,1,1,https://reqres.in/api/users,356,0,0
+1764761754237,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,400,0
+1764761754638,375,put,403,Forbidden,Thread Group 1-1,text,false,,9149,241,1,1,https://reqres.in/api/users/2,375,0,0
+1764761755013,169,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10034,332,1,1,https://reqres.in/api/users/2,65,0,2
+1764761755013,65,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,997,209,1,1,http://reqres.in/api/users/2,65,0,2
+1764761755078,104,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9037,123,1,1,https://reqres.in/api/users/2,104,0,0
+1764761755240,372,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,372,0,0
+1764761755612,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,374,0
+1764761755986,386,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,386,0,0
+1764761756372,96,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9992,332,1,1,https://reqres.in/api/users/2,40,0,2
+1764761756372,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,40,0,2
+1764761756412,56,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9010,123,1,1,https://reqres.in/api/users/2,56,0,0
+1764761756532,396,POST,403,Forbidden,Thread Group 1-1,text,false,,9128,233,1,1,https://reqres.in/api/users,396,0,0
+1764761756928,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,358,0
+1764761757286,385,put,403,Forbidden,Thread Group 1-1,text,false,,9128,241,1,1,https://reqres.in/api/users/2,385,0,0
+1764761757671,97,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9998,332,1,1,https://reqres.in/api/users/2,37,0,1
+1764761757671,37,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,37,0,1
+1764761757708,60,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9018,123,1,1,https://reqres.in/api/users/2,60,0,0
+1764761757825,442,POST,403,Forbidden,Thread Group 1-1,text,false,,9131,233,1,1,https://reqres.in/api/users,442,0,0
+1764761758268,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,378,0
+1764761758646,397,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,397,0,0
+1764761759043,179,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9993,332,1,1,https://reqres.in/api/users/2,115,0,2
+1764761759043,115,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,115,0,2
+1764761759158,64,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,64,0,0
+1764761759292,393,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,393,0,0
+1764761759685,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,456,0
+1764761760141,407,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,407,0,0
+1764761760550,106,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10005,332,1,1,https://reqres.in/api/users/2,44,0,1
+1764761760550,44,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,992,209,1,1,http://reqres.in/api/users/2,44,0,1
+1764761760594,62,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,62,0,0
+1764761760726,383,POST,403,Forbidden,Thread Group 1-1,text,false,,9117,233,1,1,https://reqres.in/api/users,383,0,0
+1764761761109,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,399,0
+1764761761508,374,put,403,Forbidden,Thread Group 1-1,text,false,,9149,241,1,1,https://reqres.in/api/users/2,374,0,0
+1764761761883,115,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,53,0,1
+1764761761883,53,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,53,0,1
+1764761761937,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761762055,381,POST,403,Forbidden,Thread Group 1-1,text,false,,9154,233,1,1,https://reqres.in/api/users,381,0,0
+1764761762435,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,410,0
+1764761762845,403,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,403,0,0
+1764761763249,111,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,48,0,1
+1764761763249,49,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,48,0,1
+1764761763298,62,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,62,0,0
+1764761763411,384,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,384,0,0
+1764761763796,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,371,0
+1764761764167,443,put,403,Forbidden,Thread Group 1-1,text,false,,9130,241,1,1,https://reqres.in/api/users/2,443,0,0
+1764761764610,94,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10005,332,1,1,https://reqres.in/api/users/2,40,0,1
+1764761764610,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,40,0,1
+1764761764650,54,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,54,0,0
+1764761764775,370,POST,403,Forbidden,Thread Group 1-1,text,false,,9140,233,1,1,https://reqres.in/api/users,370,0,0
+1764761765145,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,397,0
+1764761765542,375,put,403,Forbidden,Thread Group 1-1,text,false,,9137,241,1,1,https://reqres.in/api/users/2,375,0,0
+1764761765917,129,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,54,0,2
+1764761765917,54,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,54,0,2
+1764761765971,75,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,75,0,0
+1764761766120,365,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,365,0,0
+1764761766485,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,375,0
+1764761766860,474,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,474,0,0
+1764761767335,178,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,70,0,2
+1764761767335,70,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,70,0,2
+1764761767405,108,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,108,0,0
+1764761767610,439,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,438,0,0
+1764761768049,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,393,0
+1764761768442,458,put,403,Forbidden,Thread Group 1-1,text,false,,9150,241,1,1,https://reqres.in/api/users/2,458,0,0
+1764761768900,113,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10005,332,1,1,https://reqres.in/api/users/2,40,0,1
+1764761768900,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,40,0,1
+1764761768940,73,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9021,123,1,1,https://reqres.in/api/users/2,73,0,0
+1764761769269,374,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,374,0,0
+1764761769643,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,385,0
+1764761770029,424,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,424,0,0
+1764761770453,104,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10025,332,1,1,https://reqres.in/api/users/2,45,0,2
+1764761770453,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,45,0,2
+1764761770498,59,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,59,0,0
+1764761770617,383,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,383,0,0
+1764761771000,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,376,0
+1764761771376,424,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,424,0,0
+1764761771801,115,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10009,332,1,1,https://reqres.in/api/users/2,51,0,1
+1764761771801,51,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,51,0,1
+1764761771852,64,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9027,123,1,1,https://reqres.in/api/users/2,64,0,0
+1764761772005,406,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,406,0,0
+1764761772411,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,400,0
+1764761772811,394,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,394,0,0
+1764761773205,164,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,48,0,1
+1764761773205,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,48,0,1
+1764761773253,116,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,116,0,82
+1764761773431,371,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,371,0,0
+1764761773802,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,1176,0
+1764761774978,373,put,403,Forbidden,Thread Group 1-1,text,false,,9122,241,1,1,https://reqres.in/api/users/2,373,0,0
+1764761775351,137,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,83,0,2
+1764761775351,84,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,83,0,2
+1764761775435,53,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,53,0,0
+1764761775549,370,POST,403,Forbidden,Thread Group 1-1,text,false,,9119,233,1,1,https://reqres.in/api/users,370,0,0
+1764761775920,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,402,0
+1764761776322,388,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,388,0,0
+1764761776710,106,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10021,332,1,1,https://reqres.in/api/users/2,50,0,5
+1764761776710,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,50,0,5
+1764761776761,55,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9031,123,1,1,https://reqres.in/api/users/2,55,0,0
+1764761776884,3089,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,3089,0,0
+1764761779972,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,380,0
+1764761780353,367,put,403,Forbidden,Thread Group 1-1,text,false,,9116,241,1,1,https://reqres.in/api/users/2,367,0,0
+1764761780720,106,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9996,332,1,1,https://reqres.in/api/users/2,48,0,2
+1764761780720,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,985,209,1,1,http://reqres.in/api/users/2,48,0,2
+1764761780768,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761780898,407,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,407,0,0
+1764761781305,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,373,0
+1764761781678,396,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,396,0,0
+1764761782074,106,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9992,332,1,1,https://reqres.in/api/users/2,39,0,2
+1764761782074,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,39,0,2
+1764761782114,66,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9012,123,1,1,https://reqres.in/api/users/2,66,0,0
+1764761782259,363,POST,403,Forbidden,Thread Group 1-1,text,false,,9119,233,1,1,https://reqres.in/api/users,363,0,0
+1764761782623,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,424,0
+1764761783048,377,put,403,Forbidden,Thread Group 1-1,text,false,,9161,241,1,1,https://reqres.in/api/users/2,377,0,0
+1764761783425,151,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,48,0,2
+1764761783425,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,48,0,2
+1764761783473,103,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,103,0,0
+1764761783636,374,POST,403,Forbidden,Thread Group 1-1,text,false,,9114,233,1,1,https://reqres.in/api/users,374,0,0
+1764761784010,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,483,0
+1764761784494,376,put,403,Forbidden,Thread Group 1-1,text,false,,9163,241,1,1,https://reqres.in/api/users/2,376,0,0
+1764761784870,114,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10009,332,1,1,https://reqres.in/api/users/2,58,0,2
+1764761784870,58,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,58,0,2
+1764761784928,56,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9023,123,1,1,https://reqres.in/api/users/2,56,0,0
+1764761785091,361,POST,403,Forbidden,Thread Group 1-1,text,false,,9117,233,1,1,https://reqres.in/api/users,361,0,0
+1764761785452,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,364,0
+1764761785816,409,put,403,Forbidden,Thread Group 1-1,text,false,,9124,241,1,1,https://reqres.in/api/users/2,409,0,0
+1764761786226,141,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,45,0,2
+1764761786226,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,45,0,2
+1764761786271,96,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,96,0,0
+1764761786423,358,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,358,0,0
+1764761786781,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,373,0
+1764761787155,389,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,389,0,0
+1764761787544,104,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10005,332,1,1,https://reqres.in/api/users/2,38,0,2
+1764761787544,38,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,38,0,2
+1764761787583,65,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,65,0,0
+1764761787742,389,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,388,0,0
+1764761788131,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,358,0
+1764761788489,397,put,403,Forbidden,Thread Group 1-1,text,false,,9125,241,1,1,https://reqres.in/api/users/2,397,0,0
+1764761788886,105,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,45,0,2
+1764761788886,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,994,209,1,1,http://reqres.in/api/users/2,45,0,2
+1764761788931,60,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,59,0,0
+1764761789084,382,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,382,0,0
+1764761789467,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,380,0
+1764761789847,367,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,367,0,0
+1764761790215,137,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10027,332,1,1,https://reqres.in/api/users/2,79,0,2
+1764761790215,80,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,79,0,2
+1764761790295,57,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9043,123,1,1,https://reqres.in/api/users/2,57,0,0
+1764761790419,370,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,370,0,0
+1764761790789,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,390,0
+1764761791179,406,put,403,Forbidden,Thread Group 1-1,text,false,,9171,241,1,1,https://reqres.in/api/users/2,406,0,0
+1764761791585,113,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10009,332,1,1,https://reqres.in/api/users/2,52,0,1
+1764761791585,53,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,52,0,1
+1764761791638,60,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9023,123,1,1,https://reqres.in/api/users/2,60,0,0
+1764761791750,358,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,357,0,0
+1764761792108,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,420,0
+1764761792528,362,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,362,0,0
+1764761792890,116,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10002,332,1,1,https://reqres.in/api/users/2,40,0,1
+1764761792890,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,991,209,1,1,http://reqres.in/api/users/2,40,0,1
+1764761792930,76,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,76,0,0
+1764761793067,367,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,367,0,0
+1764761793434,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,359,0
+1764761793793,407,put,403,Forbidden,Thread Group 1-1,text,false,,9157,241,1,1,https://reqres.in/api/users/2,407,0,0
+1764761794201,110,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10009,332,1,1,https://reqres.in/api/users/2,48,0,1
+1764761794201,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,978,209,1,1,http://reqres.in/api/users/2,48,0,1
+1764761794249,62,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9031,123,1,1,https://reqres.in/api/users/2,62,0,0
+1764761794363,433,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,433,0,0
+1764761794796,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,397,0
+1764761795193,384,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,384,0,0
+1764761795577,220,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10021,332,1,1,https://reqres.in/api/users/2,45,0,2
+1764761795577,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,996,209,1,1,http://reqres.in/api/users/2,45,0,2
+1764761795622,175,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9025,123,1,1,https://reqres.in/api/users/2,175,0,0
+1764761795855,384,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,384,0,0
+1764761796239,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,373,0
+1764761796612,364,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,364,0,0
+1764761796976,105,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10017,332,1,1,https://reqres.in/api/users/2,48,0,2
+1764761796976,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,48,0,2
+1764761797024,57,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9033,123,1,1,https://reqres.in/api/users/2,57,0,0
+1764761797140,442,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,442,0,0
+1764761797579,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,358,0
+1764761797937,394,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,394,0,0
+1764761798332,100,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9996,332,1,1,https://reqres.in/api/users/2,40,0,1
+1764761798332,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,981,209,1,1,http://reqres.in/api/users/2,40,0,1
+1764761798372,60,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,60,0,0
+1764761798491,466,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,466,0,0
+1764761798957,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,405,0
+1764761799362,384,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,384,0,0
+1764761799746,114,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,51,0,2
+1764761799746,51,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,51,0,2
+1764761799797,63,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,63,0,0
+1764761799957,381,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,381,0,0
+1764761800338,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,360,0
+1764761800698,378,put,403,Forbidden,Thread Group 1-1,text,false,,9116,241,1,1,https://reqres.in/api/users/2,378,0,0
+1764761801076,233,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10031,332,1,1,https://reqres.in/api/users/2,41,0,1
+1764761801076,41,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,41,0,1
+1764761801117,192,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9041,123,1,1,https://reqres.in/api/users/2,192,0,0
+1764761801373,368,POST,403,Forbidden,Thread Group 1-1,text,false,,9119,233,1,1,https://reqres.in/api/users,368,0,0
+1764761801742,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,373,0
+1764761802115,411,put,403,Forbidden,Thread Group 1-1,text,false,,9140,241,1,1,https://reqres.in/api/users/2,411,0,0
+1764761802527,151,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10000,332,1,1,https://reqres.in/api/users/2,45,0,1
+1764761802527,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,45,0,1
+1764761802572,106,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9014,123,1,1,https://reqres.in/api/users/2,106,0,0
+1764761802773,352,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,352,0,0
+1764761803126,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,362,0
+1764761803488,423,put,403,Forbidden,Thread Group 1-1,text,false,,9124,241,1,1,https://reqres.in/api/users/2,423,0,0
+1764761803912,111,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,56,0,1
+1764761803912,56,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,56,0,1
+1764761803969,54,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,54,0,0
+1764761804083,392,POST,403,Forbidden,Thread Group 1-1,text,false,,9117,233,1,1,https://reqres.in/api/users,392,0,0
+1764761804475,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,365,0
+1764761804840,395,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,395,0,0
+1764761805236,113,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,47,0,1
+1764761805236,47,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,47,0,1
+1764761805283,66,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9021,123,1,1,https://reqres.in/api/users/2,66,0,0
+1764761805412,392,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,392,0,0
+1764761805804,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,396,0
+1764761806200,388,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,388,0,0
+1764761806588,120,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10009,332,1,1,https://reqres.in/api/users/2,37,0,2
+1764761806588,38,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,37,0,2
+1764761806626,82,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9021,123,1,1,https://reqres.in/api/users/2,82,0,0
+1764761806764,369,POST,403,Forbidden,Thread Group 1-1,text,false,,9107,233,1,1,https://reqres.in/api/users,369,0,0
+1764761807133,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,424,0
+1764761807557,353,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,353,0,0
+1764761807910,152,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10017,332,1,1,https://reqres.in/api/users/2,50,0,4
+1764761807910,51,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,50,0,4
+1764761807961,101,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9033,123,1,1,https://reqres.in/api/users/2,101,0,0
+1764761808122,388,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,388,0,0
+1764761808510,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,419,0
+1764761808929,394,put,403,Forbidden,Thread Group 1-1,text,false,,9144,241,1,1,https://reqres.in/api/users/2,394,0,0
+1764761809323,103,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10017,332,1,1,https://reqres.in/api/users/2,51,0,1
+1764761809323,51,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,51,0,1
+1764761809374,52,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9031,123,1,1,https://reqres.in/api/users/2,52,0,0
+1764761809481,373,POST,403,Forbidden,Thread Group 1-1,text,false,,9110,233,1,1,https://reqres.in/api/users,373,0,0
+1764761809854,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,404,0
+1764761810258,366,put,403,Forbidden,Thread Group 1-1,text,false,,9122,241,1,1,https://reqres.in/api/users/2,366,0,0
+1764761810625,108,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10005,332,1,1,https://reqres.in/api/users/2,40,0,1
+1764761810625,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,40,0,1
+1764761810665,68,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,68,0,0
+1764761810792,362,POST,403,Forbidden,Thread Group 1-1,text,false,,9108,233,1,1,https://reqres.in/api/users,362,0,0
+1764761811154,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,419,0
+1764761811573,387,put,403,Forbidden,Thread Group 1-1,text,false,,9126,241,1,1,https://reqres.in/api/users/2,387,0,0
+1764761811960,116,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10027,332,1,1,https://reqres.in/api/users/2,41,0,1
+1764761811960,42,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,41,0,1
+1764761812002,74,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9043,123,1,1,https://reqres.in/api/users/2,74,0,0
+1764761812172,383,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,383,0,0
+1764761812556,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,376,0
+1764761812932,395,put,403,Forbidden,Thread Group 1-1,text,false,,9126,241,1,1,https://reqres.in/api/users/2,395,0,0
+1764761813328,162,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,52,0,1
+1764761813328,52,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,52,0,1
+1764761813380,110,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,110,0,0
+1764761813563,378,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,378,0,0
+1764761813941,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,388,0
+1764761814329,393,put,403,Forbidden,Thread Group 1-1,text,false,,9163,241,1,1,https://reqres.in/api/users/2,393,0,0
+1764761814722,142,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,75,0,2
+1764761814722,75,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,75,0,2
+1764761814797,67,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,67,0,0
+1764761814936,392,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,392,0,0
+1764761815328,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,442,0
+1764761815770,389,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,389,0,0
+1764761816159,125,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,53,0,2
+1764761816159,53,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,53,0,2
+1764761816212,72,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,72,0,0
+1764761816345,400,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,400,0,0
+1764761816745,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,545,0
+1764761817291,408,put,403,Forbidden,Thread Group 1-1,text,false,,9122,241,1,1,https://reqres.in/api/users/2,408,0,0
+1764761817700,97,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10009,332,1,1,https://reqres.in/api/users/2,42,0,1
+1764761817700,43,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,996,209,1,1,http://reqres.in/api/users/2,42,0,1
+1764761817743,54,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,54,0,0
+1764761817874,378,POST,403,Forbidden,Thread Group 1-1,text,false,,9117,233,1,1,https://reqres.in/api/users,378,0,0
+1764761818252,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,411,0
+1764761818663,445,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,445,0,0
+1764761819108,129,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10032,332,1,1,https://reqres.in/api/users/2,61,0,1
+1764761819108,61,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,995,209,1,1,http://reqres.in/api/users/2,61,0,1
+1764761819169,68,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9037,123,1,1,https://reqres.in/api/users/2,68,0,0
+1764761819392,442,POST,403,Forbidden,Thread Group 1-1,text,false,,9138,233,1,1,https://reqres.in/api/users,442,0,0
+1764761819834,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,386,0
+1764761820221,398,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,398,0,0
+1764761820621,137,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,82,0,1
+1764761820621,82,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,82,0,1
+1764761820704,54,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,54,0,0
+1764761820814,395,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,395,0,0
+1764761821209,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,374,0
+1764761821584,371,put,403,Forbidden,Thread Group 1-1,text,false,,9144,241,1,1,https://reqres.in/api/users/2,371,0,0
+1764761821955,111,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10029,332,1,1,https://reqres.in/api/users/2,54,0,2
+1764761821955,54,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,994,209,1,1,http://reqres.in/api/users/2,54,0,2
+1764761822009,57,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,57,0,0
+1764761822132,431,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,431,0,0
+1764761822564,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,404,0
+1764761822968,416,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,416,0,0
+1764761823384,104,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10019,332,1,1,https://reqres.in/api/users/2,47,0,2
+1764761823384,47,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,47,0,2
+1764761823431,57,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,57,0,0
+1764761823569,541,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,541,0,0
+1764761824110,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,417,0
+1764761824527,629,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,629,0,0
+1764761825157,155,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10002,332,1,1,https://reqres.in/api/users/2,59,0,1
+1764761825157,60,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,993,209,1,1,http://reqres.in/api/users/2,59,0,1
+1764761825217,95,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9009,123,1,1,https://reqres.in/api/users/2,95,0,0
+1764761825388,371,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,371,0,0
+1764761825759,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,586,0
+1764761826345,405,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,405,0,0
+1764761826750,111,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9972,332,1,1,https://reqres.in/api/users/2,40,0,1
+1764761826750,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,40,0,1
+1764761826790,71,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8992,123,1,1,https://reqres.in/api/users/2,71,0,0
+1764761826943,372,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,372,0,0
+1764761827315,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,411,0
+1764761827723,422,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,422,0,0
+1764761828145,113,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10000,332,1,1,https://reqres.in/api/users/2,56,0,2
+1764761828145,56,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,989,209,1,1,http://reqres.in/api/users/2,56,0,2
+1764761828201,57,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,57,0,0
+1764761828370,420,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,420,0,0
+1764761828791,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,381,0
+1764761829172,400,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,400,0,0
+1764761829572,103,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,44,0,2
+1764761829572,44,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,44,0,2
+1764761829616,59,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9009,123,1,1,https://reqres.in/api/users/2,59,0,0
+1764761829813,397,POST,403,Forbidden,Thread Group 1-1,text,false,,9107,233,1,1,https://reqres.in/api/users,397,0,0
+1764761830210,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,434,0
+1764761830644,402,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,402,0,0
+1764761831046,145,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10016,332,1,1,https://reqres.in/api/users/2,46,0,2
+1764761831046,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,46,0,2
+1764761831092,99,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9034,123,1,1,https://reqres.in/api/users/2,99,0,0
+1764761831258,404,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,404,0,0
+1764761831662,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,374,0
+1764761832036,444,put,403,Forbidden,Thread Group 1-1,text,false,,9116,241,1,1,https://reqres.in/api/users/2,444,0,0
+1764761832480,110,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10027,332,1,1,https://reqres.in/api/users/2,44,0,2
+1764761832480,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,44,0,2
+1764761832525,65,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9041,123,1,1,https://reqres.in/api/users/2,65,0,0
+1764761832839,421,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,421,0,0
+1764761833260,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,426,0
+1764761833686,395,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,395,0,0
+1764761834081,126,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,41,0,2
+1764761834081,41,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,41,0,2
+1764761834122,85,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,85,0,0
+1764761834282,364,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,364,0,0
+1764761834646,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,496,0
+1764761835142,354,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,354,0,0
+1764761835496,101,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9981,332,1,1,https://reqres.in/api/users/2,46,0,1
+1764761835496,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,46,0,1
+1764761835542,55,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8997,123,1,1,https://reqres.in/api/users/2,55,0,0
+1764761835655,414,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,414,0,0
+1764761836069,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,408,0
+1764761836477,403,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,403,0,0
+1764761836881,135,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10000,332,1,1,https://reqres.in/api/users/2,59,0,1
+1764761836881,59,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,985,209,1,1,http://reqres.in/api/users/2,59,0,1
+1764761836940,76,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,76,0,0
+1764761837087,389,POST,403,Forbidden,Thread Group 1-1,text,false,,9096,233,1,1,https://reqres.in/api/users,389,0,0
+1764761837477,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,393,0
+1764761837870,368,put,403,Forbidden,Thread Group 1-1,text,false,,9122,241,1,1,https://reqres.in/api/users/2,368,0,0
+1764761838238,99,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,44,0,5
+1764761838238,44,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,44,0,5
+1764761838282,55,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,55,0,0
+1764761838398,407,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,407,0,0
+1764761838805,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,364,0
+1764761839169,428,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,428,0,0
+1764761839597,97,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10025,332,1,1,https://reqres.in/api/users/2,45,0,2
+1764761839597,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,45,0,2
+1764761839643,51,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9039,123,1,1,https://reqres.in/api/users/2,51,0,0
+1764761839753,369,POST,403,Forbidden,Thread Group 1-1,text,false,,9138,233,1,1,https://reqres.in/api/users,369,0,0
+1764761840123,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,415,0
+1764761840538,413,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,413,0,0
+1764761840951,119,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10019,332,1,1,https://reqres.in/api/users/2,55,0,2
+1764761840951,56,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,55,0,2
+1764761841007,63,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,63,0,0
+1764761841134,362,POST,403,Forbidden,Thread Group 1-1,text,false,,9128,233,1,1,https://reqres.in/api/users,362,0,0
+1764761841496,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,374,0
+1764761841870,411,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,411,0,0
+1764761842281,110,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10035,332,1,1,https://reqres.in/api/users/2,49,0,2
+1764761842281,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,992,209,1,1,http://reqres.in/api/users/2,49,0,2
+1764761842331,60,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9043,123,1,1,https://reqres.in/api/users/2,60,0,0
+1764761842506,389,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,389,0,0
+1764761842895,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,366,0
+1764761843261,367,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,367,0,0
+1764761843629,180,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,90,0,1
+1764761843629,91,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,90,0,1
+1764761843720,89,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,89,0,0
+1764761843869,360,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,360,0,0
+1764761844229,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,390,0
+1764761844619,523,put,403,Forbidden,Thread Group 1-1,text,false,,9122,241,1,1,https://reqres.in/api/users/2,523,0,0
+1764761845142,118,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10019,332,1,1,https://reqres.in/api/users/2,52,0,2
+1764761845142,52,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,52,0,2
+1764761845194,66,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9039,123,1,1,https://reqres.in/api/users/2,65,0,0
+1764761845314,411,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,411,0,0
+1764761845725,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,400,0
+1764761846126,399,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,399,0,0
+1764761846525,99,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,50,0,2
+1764761846525,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,50,0,2
+1764761846575,49,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9023,123,1,1,https://reqres.in/api/users/2,49,0,0
+1764761846684,405,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,405,0,0
+1764761847089,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,371,0
+1764761847459,373,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,373,0,0
+1764761847832,128,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9980,332,1,1,https://reqres.in/api/users/2,56,0,1
+1764761847832,57,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,56,0,1
+1764761847889,71,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8992,123,1,1,https://reqres.in/api/users/2,71,0,0
+1764761848028,379,POST,403,Forbidden,Thread Group 1-1,text,false,,9140,233,1,1,https://reqres.in/api/users,379,0,0
+1764761848408,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,421,0
+1764761848829,426,put,403,Forbidden,Thread Group 1-1,text,false,,9101,241,1,1,https://reqres.in/api/users/2,426,0,0
+1764761849255,105,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10000,332,1,1,https://reqres.in/api/users/2,41,0,1
+1764761849255,41,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,991,209,1,1,http://reqres.in/api/users/2,41,0,1
+1764761849296,64,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9009,123,1,1,https://reqres.in/api/users/2,64,0,0
+1764761849418,399,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,399,0,0
+1764761849817,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,376,0
+1764761850193,387,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,387,0,0
+1764761850582,106,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10021,332,1,1,https://reqres.in/api/users/2,50,0,2
+1764761850582,51,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,50,0,2
+1764761850633,55,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,55,0,0
+1764761850861,368,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,368,0,0
+1764761851229,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,369,0
+1764761851598,395,put,403,Forbidden,Thread Group 1-1,text,false,,9163,241,1,1,https://reqres.in/api/users/2,395,0,0
+1764761851994,104,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,45,0,1
+1764761851994,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,45,0,1
+1764761852040,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761852263,414,POST,403,Forbidden,Thread Group 1-1,text,false,,9094,233,1,1,https://reqres.in/api/users,414,0,0
+1764761852677,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,387,0
+1764761853064,362,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,362,0,0
+1764761853427,125,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,64,0,1
+1764761853427,64,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,64,0,1
+1764761853491,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761853641,428,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,428,0,0
+1764761854069,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,407,0
+1764761854476,431,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,431,0,0
+1764761854907,154,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,51,0,2
+1764761854907,51,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,51,0,2
+1764761854958,103,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,103,0,0
+1764761855129,446,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,446,0,0
+1764761855575,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,362,0
+1764761855937,366,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,366,0,0
+1764761856303,112,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,39,0,2
+1764761856303,39,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,39,0,2
+1764761856342,73,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,73,0,0
+1764761856466,416,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,416,0,0
+1764761856882,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,395,0
+1764761857277,413,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,413,0,0
+1764761857689,101,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10017,332,1,1,https://reqres.in/api/users/2,42,0,2
+1764761857689,42,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,42,0,2
+1764761857731,59,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,59,0,0
+1764761857850,411,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,411,0,0
+1764761858261,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,372,0
+1764761858633,420,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,420,0,0
+1764761859053,131,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10023,332,1,1,https://reqres.in/api/users/2,70,0,1
+1764761859053,70,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,70,0,1
+1764761859123,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761859234,393,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,393,0,0
+1764761859627,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,387,0
+1764761860014,375,put,403,Forbidden,Thread Group 1-1,text,false,,9126,241,1,1,https://reqres.in/api/users/2,375,0,0
+1764761860390,188,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,54,0,1
+1764761860390,54,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,54,0,1
+1764761860445,133,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,133,0,0
+1764761860637,372,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,372,0,0
+1764761861009,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,390,0
+1764761861399,390,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,390,0,0
+1764761861789,103,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10005,332,1,1,https://reqres.in/api/users/2,40,0,1
+1764761861789,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,40,0,1
+1764761861829,63,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,63,0,0
+1764761861976,355,POST,403,Forbidden,Thread Group 1-1,text,false,,9140,233,1,1,https://reqres.in/api/users,355,0,0
+1764761862332,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,405,0
+1764761862736,478,put,403,Forbidden,Thread Group 1-1,text,false,,9137,241,1,1,https://reqres.in/api/users/2,478,0,0
+1764761863214,130,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,76,0,1
+1764761863214,76,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,76,0,1
+1764761863290,54,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,54,0,0
+1764761863409,388,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,388,0,0
+1764761863797,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,422,0
+1764761864220,406,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,406,0,0
+1764761864626,165,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,54,0,2
+1764761864626,54,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,54,0,2
+1764761864680,111,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,111,0,0
+1764761864850,404,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,404,0,0
+1764761865254,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,410,0
+1764761865664,421,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,421,0,0
+1764761866085,128,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,49,0,2
+1764761866085,49,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,49,0,2
+1764761866135,78,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,78,0,0
+1764761866272,394,POST,403,Forbidden,Thread Group 1-1,text,false,,9112,233,1,1,https://reqres.in/api/users,394,0,0
+1764761866666,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,396,0
+1764761867062,368,put,403,Forbidden,Thread Group 1-1,text,false,,9126,241,1,1,https://reqres.in/api/users/2,368,0,0
+1764761867431,105,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9993,332,1,1,https://reqres.in/api/users/2,45,0,1
+1764761867431,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,45,0,1
+1764761867476,60,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,60,0,0
+1764761867642,392,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,392,0,0
+1764761868034,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,409,0
+1764761868443,362,put,403,Forbidden,Thread Group 1-1,text,false,,9147,241,1,1,https://reqres.in/api/users/2,362,0,0
+1764761868805,176,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10015,332,1,1,https://reqres.in/api/users/2,49,0,6
+1764761868805,49,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,49,0,6
+1764761868854,127,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9031,123,1,1,https://reqres.in/api/users/2,127,0,0
+1764761869046,378,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,377,0,0
+1764761869424,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,406,0
+1764761869831,397,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,397,0,0
+1764761870229,142,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,46,0,1
+1764761870229,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,46,0,1
+1764761870275,96,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,96,0,0
+1764761870441,422,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,422,0,0
+1764761870863,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,394,0
+1764761871257,391,put,403,Forbidden,Thread Group 1-1,text,false,,9132,241,1,1,https://reqres.in/api/users/2,391,0,0
+1764761871648,109,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10020,332,1,1,https://reqres.in/api/users/2,37,0,2
+1764761871648,37,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,37,0,2
+1764761871685,72,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9032,123,1,1,https://reqres.in/api/users/2,72,0,0
+1764761871844,373,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,373,0,0
+1764761872217,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,404,0
+1764761872621,390,put,403,Forbidden,Thread Group 1-1,text,false,,9124,241,1,1,https://reqres.in/api/users/2,390,0,0
+1764761873011,118,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9993,332,1,1,https://reqres.in/api/users/2,51,0,2
+1764761873011,51,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,51,0,2
+1764761873062,67,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,67,0,0
+1764761873189,383,POST,403,Forbidden,Thread Group 1-1,text,false,,9123,233,1,1,https://reqres.in/api/users,382,0,0
+1764761873572,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,414,0
+1764761873986,447,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,447,0,0
+1764761874433,118,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10023,332,1,1,https://reqres.in/api/users/2,47,0,2
+1764761874433,47,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,47,0,2
+1764761874480,71,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9041,123,1,1,https://reqres.in/api/users/2,71,0,0
+1764761874613,449,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,449,0,0
+1764761875062,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,359,0
+1764761875421,399,put,403,Forbidden,Thread Group 1-1,text,false,,9163,241,1,1,https://reqres.in/api/users/2,399,0,0
+1764761875820,102,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,48,0,1
+1764761875820,49,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,48,0,1
+1764761875869,53,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,53,0,0
+1764761875986,505,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,505,0,0
+1764761876491,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,390,0
+1764761876881,389,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,389,0,0
+1764761877270,103,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,44,0,1
+1764761877270,44,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,44,0,1
+1764761877314,59,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,59,0,0
+1764761877455,360,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,360,0,0
+1764761877815,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,381,0
+1764761878196,387,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,387,0,0
+1764761878584,114,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9996,332,1,1,https://reqres.in/api/users/2,50,0,1
+1764761878584,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,981,209,1,1,http://reqres.in/api/users/2,50,0,1
+1764761878634,64,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,64,0,0
+1764761878823,375,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,375,0,0
+1764761879198,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,423,0
+1764761879621,374,put,403,Forbidden,Thread Group 1-1,text,false,,9126,241,1,1,https://reqres.in/api/users/2,374,0,0
+1764761879995,162,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,86,0,2
+1764761879995,87,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,86,0,2
+1764761880082,75,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,75,0,0
+1764761880224,366,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,366,0,0
+1764761880590,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,413,0
+1764761881003,393,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,393,0,0
+1764761881396,114,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,52,0,1
+1764761881396,52,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,52,0,1
+1764761881448,62,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,62,0,0
+1764761881606,445,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,445,0,0
+1764761882051,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,408,0
+1764761882459,403,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,403,0,0
+1764761882862,118,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9994,332,1,1,https://reqres.in/api/users/2,48,0,2
+1764761882862,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,981,209,1,1,http://reqres.in/api/users/2,48,0,2
+1764761882911,69,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,69,0,0
+1764761883040,388,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,388,0,0
+1764761883428,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,419,0
+1764761883847,371,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,371,0,0
+1764761884218,111,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,57,0,2
+1764761884218,57,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,57,0,2
+1764761884275,54,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,54,0,0
+1764761884388,382,POST,403,Forbidden,Thread Group 1-1,text,false,,9110,233,1,1,https://reqres.in/api/users,382,0,0
+1764761884770,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,415,0
+1764761885185,431,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,431,0,0
+1764761885616,106,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9981,332,1,1,https://reqres.in/api/users/2,45,0,2
+1764761885616,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,991,209,1,1,http://reqres.in/api/users/2,45,0,2
+1764761885662,60,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8990,123,1,1,https://reqres.in/api/users/2,60,0,0
+1764761885815,374,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,373,0,0
+1764761886189,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,381,0
+1764761886570,421,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,421,0,0
+1764761886991,109,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,48,0,1
+1764761886991,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,48,0,1
+1764761887039,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761887178,382,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,382,0,0
+1764761887557,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,403,0
+1764761887960,398,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,398,0,0
+1764761888358,107,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10021,332,1,1,https://reqres.in/api/users/2,53,0,1
+1764761888358,53,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,53,0,1
+1764761888412,53,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9039,123,1,1,https://reqres.in/api/users/2,53,0,0
+1764761888569,673,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,673,0,0
+1764761889242,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,398,0
+1764761889640,377,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,377,0,0
+1764761890018,143,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10027,332,1,1,https://reqres.in/api/users/2,41,0,1
+1764761890018,41,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,41,0,1
+1764761890059,102,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9037,123,1,1,https://reqres.in/api/users/2,102,0,0
+1764761890229,369,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,369,0,0
+1764761890598,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,401,0
+1764761890999,402,put,403,Forbidden,Thread Group 1-1,text,false,,9122,241,1,1,https://reqres.in/api/users/2,402,0,0
+1764761891402,107,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10006,332,1,1,https://reqres.in/api/users/2,54,0,1
+1764761891402,54,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,993,209,1,1,http://reqres.in/api/users/2,54,0,1
+1764761891456,53,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,53,0,0
+1764761891564,355,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,355,0,0
+1764761891919,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,395,0
+1764761892314,354,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,354,0,0
+1764761892668,108,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10023,332,1,1,https://reqres.in/api/users/2,50,0,2
+1764761892668,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,50,0,2
+1764761892718,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9039,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761892836,360,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,360,0,0
+1764761893196,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,384,0
+1764761893581,467,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,467,0,85
+1764761894048,101,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9984,332,1,1,https://reqres.in/api/users/2,44,0,2
+1764761894048,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,44,0,2
+1764761894093,56,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8998,123,1,1,https://reqres.in/api/users/2,56,0,0
+1764761894206,357,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,357,0,0
+1764761894563,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,468,0
+1764761895031,378,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,378,0,0
+1764761895409,112,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,52,0,2
+1764761895409,52,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,52,0,2
+1764761895461,60,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,60,0,0
+1764761895576,360,POST,403,Forbidden,Thread Group 1-1,text,false,,9138,233,1,1,https://reqres.in/api/users,360,0,0
+1764761895936,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,366,0
+1764761896302,363,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,363,0,0
+1764761896666,113,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10013,332,1,1,https://reqres.in/api/users/2,42,0,1
+1764761896666,42,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,42,0,1
+1764761896708,71,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9031,123,1,1,https://reqres.in/api/users/2,71,0,0
+1764761896842,378,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,378,0,0
+1764761897220,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,390,0
+1764761897610,356,put,403,Forbidden,Thread Group 1-1,text,false,,9122,241,1,1,https://reqres.in/api/users/2,356,0,0
+1764761897967,121,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9978,332,1,1,https://reqres.in/api/users/2,52,0,1
+1764761897967,52,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,978,209,1,1,http://reqres.in/api/users/2,52,0,1
+1764761898019,69,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9000,123,1,1,https://reqres.in/api/users/2,69,0,0
+1764761898161,400,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,400,0,0
+1764761898561,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,374,0
+1764761898935,360,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,360,0,0
+1764761899296,112,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,48,0,3
+1764761899296,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,48,0,3
+1764761899344,64,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,64,0,0
+1764761899470,397,POST,403,Forbidden,Thread Group 1-1,text,false,,9119,233,1,1,https://reqres.in/api/users,397,0,0
+1764761899867,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,410,0
+1764761900277,399,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,399,0,0
+1764761900676,101,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,47,0,1
+1764761900676,47,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,47,0,1
+1764761900724,53,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,53,0,0
+1764761900833,418,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,418,0,0
+1764761901251,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,402,0
+1764761901653,386,put,403,Forbidden,Thread Group 1-1,text,false,,9148,241,1,1,https://reqres.in/api/users/2,386,0,0
+1764761902039,146,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,51,0,1
+1764761902039,51,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,51,0,1
+1764761902090,95,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,95,0,0
+1764761902238,386,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,385,0,0
+1764761902624,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,388,0
+1764761903012,414,put,403,Forbidden,Thread Group 1-1,text,false,,9137,241,1,1,https://reqres.in/api/users/2,414,0,0
+1764761903426,130,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10015,332,1,1,https://reqres.in/api/users/2,52,0,2
+1764761903426,52,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,52,0,2
+1764761903478,78,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9029,123,1,1,https://reqres.in/api/users/2,78,0,0
+1764761903620,422,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,422,0,0
+1764761904042,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,400,0
+1764761904443,400,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,400,0,0
+1764761904843,106,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9993,332,1,1,https://reqres.in/api/users/2,49,0,2
+1764761904843,49,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,49,0,2
+1764761904892,57,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,57,0,0
+1764761905008,366,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,366,0,0
+1764761905375,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,364,0
+1764761905740,392,put,403,Forbidden,Thread Group 1-1,text,false,,9157,241,1,1,https://reqres.in/api/users/2,392,0,0
+1764761906132,108,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,50,0,1
+1764761906132,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,50,0,1
+1764761906182,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761906301,358,POST,403,Forbidden,Thread Group 1-1,text,false,,9130,233,1,1,https://reqres.in/api/users,358,0,0
+1764761906659,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,365,0
+1764761907024,366,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,366,0,0
+1764761907390,131,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,48,0,1
+1764761907390,48,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,48,0,1
+1764761907440,81,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9021,123,1,1,https://reqres.in/api/users/2,81,0,0
+1764761907613,384,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,384,0,0
+1764761907997,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,369,0
+1764761908366,399,put,403,Forbidden,Thread Group 1-1,text,false,,9148,241,1,1,https://reqres.in/api/users/2,399,0,0
+1764761908766,122,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,53,0,1
+1764761908766,53,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,53,0,1
+1764761908819,69,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,69,0,0
+1764761908950,387,POST,403,Forbidden,Thread Group 1-1,text,false,,9138,233,1,1,https://reqres.in/api/users,387,0,0
+1764761909337,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,386,0
+1764761909723,362,put,403,Forbidden,Thread Group 1-1,text,false,,9143,241,1,1,https://reqres.in/api/users/2,362,0,0
+1764761910086,113,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9988,332,1,1,https://reqres.in/api/users/2,47,0,2
+1764761910086,47,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,47,0,2
+1764761910134,65,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9002,123,1,1,https://reqres.in/api/users/2,65,0,0
+1764761910275,362,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,362,0,0
+1764761910637,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,360,0
+1764761910997,354,put,403,Forbidden,Thread Group 1-1,text,false,,9126,241,1,1,https://reqres.in/api/users/2,354,0,0
+1764761911352,106,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10017,332,1,1,https://reqres.in/api/users/2,45,0,1
+1764761911352,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,45,0,1
+1764761911397,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9035,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761911527,390,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,390,0,0
+1764761911918,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,373,0
+1764761912291,401,put,403,Forbidden,Thread Group 1-1,text,false,,9137,241,1,1,https://reqres.in/api/users/2,401,0,0
+1764761912691,131,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9984,332,1,1,https://reqres.in/api/users/2,60,0,1
+1764761912691,61,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,60,0,1
+1764761912752,70,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8998,123,1,1,https://reqres.in/api/users/2,70,0,0
+1764761912903,515,POST,403,Forbidden,Thread Group 1-1,text,false,,9128,233,1,1,https://reqres.in/api/users,515,0,0
+1764761913418,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,369,0
+1764761913787,415,put,403,Forbidden,Thread Group 1-1,text,false,,9153,241,1,1,https://reqres.in/api/users/2,415,0,0
+1764761914202,129,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9980,332,1,1,https://reqres.in/api/users/2,56,0,2
+1764761914202,56,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,56,0,2
+1764761914259,72,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8996,123,1,1,https://reqres.in/api/users/2,72,0,0
+1764761914393,421,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,421,0,0
+1764761914814,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,393,0
+1764761915207,373,put,403,Forbidden,Thread Group 1-1,text,false,,9116,241,1,1,https://reqres.in/api/users/2,373,0,0
+1764761915580,97,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,41,0,2
+1764761915580,41,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,41,0,2
+1764761915621,56,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9021,123,1,1,https://reqres.in/api/users/2,56,0,0
+1764761915736,381,POST,403,Forbidden,Thread Group 1-1,text,false,,9107,233,1,1,https://reqres.in/api/users,381,0,0
+1764761916118,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,406,0
+1764761916524,400,put,403,Forbidden,Thread Group 1-1,text,false,,9116,241,1,1,https://reqres.in/api/users/2,400,0,0
+1764761916924,138,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9978,332,1,1,https://reqres.in/api/users/2,77,0,1
+1764761916924,77,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,77,0,1
+1764761917001,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8994,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761917119,387,POST,403,Forbidden,Thread Group 1-1,text,false,,9088,233,1,1,https://reqres.in/api/users,387,0,0
+1764761917505,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,382,0
+1764761917887,394,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,394,0,0
+1764761918281,95,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,44,0,1
+1764761918281,44,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,44,0,1
+1764761918325,51,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,51,0,0
+1764761918447,429,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,429,0,0
+1764761918876,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,381,0
+1764761919257,455,put,403,Forbidden,Thread Group 1-1,text,false,,9116,241,1,1,https://reqres.in/api/users/2,455,0,0
+1764761919712,117,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9993,332,1,1,https://reqres.in/api/users/2,51,0,2
+1764761919712,51,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,51,0,2
+1764761919764,65,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,65,0,0
+1764761919905,385,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,385,0,0
+1764761920290,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,403,0
+1764761920693,401,put,403,Forbidden,Thread Group 1-1,text,false,,9149,241,1,1,https://reqres.in/api/users/2,401,0,0
+1764761921094,214,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10011,332,1,1,https://reqres.in/api/users/2,153,0,1
+1764761921094,153,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,153,0,1
+1764761921247,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9021,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761921367,367,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,367,0,0
+1764761921734,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,390,0
+1764761922125,387,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,387,0,0
+1764761922512,109,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,46,0,1
+1764761922512,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,46,0,1
+1764761922558,63,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,63,0,0
+1764761922679,382,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,382,0,0
+1764761923061,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,421,0
+1764761923483,359,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,359,0,0
+1764761923842,143,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9997,332,1,1,https://reqres.in/api/users/2,46,0,1
+1764761923842,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,46,0,1
+1764761923888,97,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,97,0,0
+1764761924053,489,POST,403,Forbidden,Thread Group 1-1,text,false,,9135,233,1,1,https://reqres.in/api/users,489,0,0
+1764761924542,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,424,0
+1764761924967,371,put,403,Forbidden,Thread Group 1-1,text,false,,9116,241,1,1,https://reqres.in/api/users/2,371,0,0
+1764761925339,103,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9976,332,1,1,https://reqres.in/api/users/2,52,0,1
+1764761925339,52,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,52,0,1
+1764761925392,50,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8992,123,1,1,https://reqres.in/api/users/2,50,0,0
+1764761925506,397,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,397,0,0
+1764761925903,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,355,0
+1764761926258,396,put,403,Forbidden,Thread Group 1-1,text,false,,9163,241,1,1,https://reqres.in/api/users/2,396,0,0
+1764761926654,102,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10005,332,1,1,https://reqres.in/api/users/2,41,0,1
+1764761926654,41,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,992,209,1,1,http://reqres.in/api/users/2,41,0,1
+1764761926695,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761926832,390,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,390,0,0
+1764761927222,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,393,0
+1764761927615,372,put,403,Forbidden,Thread Group 1-1,text,false,,9135,241,1,1,https://reqres.in/api/users/2,372,0,0
+1764761927988,97,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10021,332,1,1,https://reqres.in/api/users/2,38,0,1
+1764761927988,38,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,38,0,1
+1764761928026,59,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9033,123,1,1,https://reqres.in/api/users/2,59,0,0
+1764761928186,461,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,461,0,0
+1764761928647,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,367,0
+1764761929014,403,put,403,Forbidden,Thread Group 1-1,text,false,,9118,241,1,1,https://reqres.in/api/users/2,403,0,0
+1764761929417,119,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,44,0,4
+1764761929417,44,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,44,0,4
+1764761929461,75,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9015,123,1,1,https://reqres.in/api/users/2,75,0,0
+1764761929607,359,POST,403,Forbidden,Thread Group 1-1,text,false,,9113,233,1,1,https://reqres.in/api/users,359,0,0
+1764761929966,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,446,0
+1764761930412,387,put,403,Forbidden,Thread Group 1-1,text,false,,9126,241,1,1,https://reqres.in/api/users/2,387,0,0
+1764761930799,144,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10009,332,1,1,https://reqres.in/api/users/2,51,0,1
+1764761930799,51,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,51,0,1
+1764761930851,92,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,92,0,0
+1764761931002,374,POST,403,Forbidden,Thread Group 1-1,text,false,,9107,233,1,1,https://reqres.in/api/users,374,0,0
+1764761931376,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,385,0
+1764761931761,406,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,406,0,0
+1764761932167,123,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10005,332,1,1,https://reqres.in/api/users/2,50,0,2
+1764761932167,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,50,0,2
+1764761932217,73,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9023,123,1,1,https://reqres.in/api/users/2,73,0,0
+1764761932345,408,POST,403,Forbidden,Thread Group 1-1,text,false,,9107,233,1,1,https://reqres.in/api/users,408,0,0
+1764761932754,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,378,0
+1764761933132,388,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,388,0,0
+1764761933521,141,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,46,0,1
+1764761933521,46,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,990,209,1,1,http://reqres.in/api/users/2,46,0,1
+1764761933567,95,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,95,0,0
+1764761933755,689,POST,403,Forbidden,Thread Group 1-1,text,false,,9138,233,1,1,https://reqres.in/api/users,689,0,0
+1764761934444,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,385,0
+1764761934829,408,put,403,Forbidden,Thread Group 1-1,text,false,,9122,241,1,1,https://reqres.in/api/users/2,408,0,0
+1764761935237,134,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9976,332,1,1,https://reqres.in/api/users/2,75,0,1
+1764761935237,75,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,75,0,1
+1764761935313,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8990,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761935469,391,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,391,0,0
+1764761935860,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,387,0
+1764761936248,496,put,403,Forbidden,Thread Group 1-1,text,false,,9122,241,1,1,https://reqres.in/api/users/2,496,0,0
+1764761936744,118,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9993,332,1,1,https://reqres.in/api/users/2,43,0,1
+1764761936744,43,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,43,0,1
+1764761936788,74,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,74,0,0
+1764761937644,413,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,413,0,0
+1764761938057,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,370,0
+1764761938428,387,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,387,0,0
+1764761938815,120,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9999,332,1,1,https://reqres.in/api/users/2,57,0,2
+1764761938815,57,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,57,0,2
+1764761938872,63,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,63,0,0
+1764761938994,397,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,397,0,0
+1764761939391,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,395,0
+1764761939786,368,put,403,Forbidden,Thread Group 1-1,text,false,,9139,241,1,1,https://reqres.in/api/users/2,368,0,0
+1764761940155,114,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,38,0,1
+1764761940155,38,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,982,209,1,1,http://reqres.in/api/users/2,38,0,1
+1764761940193,76,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,76,0,0
+1764761940424,493,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,493,0,0
+1764761940917,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,409,0
+1764761941327,383,put,403,Forbidden,Thread Group 1-1,text,false,,9141,241,1,1,https://reqres.in/api/users/2,383,0,0
+1764761941710,109,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9995,332,1,1,https://reqres.in/api/users/2,46,0,1
+1764761941710,47,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,986,209,1,1,http://reqres.in/api/users/2,46,0,1
+1764761941757,62,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9009,123,1,1,https://reqres.in/api/users/2,62,0,0
+1764761941915,394,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,394,0,0
+1764761942309,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,453,0
+1764761942762,356,put,403,Forbidden,Thread Group 1-1,text,false,,9137,241,1,1,https://reqres.in/api/users/2,356,0,0
+1764761943118,155,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10013,332,1,1,https://reqres.in/api/users/2,49,0,2
+1764761943118,50,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,49,0,2
+1764761943168,105,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9033,123,1,1,https://reqres.in/api/users/2,105,0,0
+1764761943352,366,POST,403,Forbidden,Thread Group 1-1,text,false,,9136,233,1,1,https://reqres.in/api/users,366,0,0
+1764761943718,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,376,0
+1764761944094,424,put,403,Forbidden,Thread Group 1-1,text,false,,9122,241,1,1,https://reqres.in/api/users/2,424,0,0
+1764761944518,103,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10001,332,1,1,https://reqres.in/api/users/2,45,0,2
+1764761944518,45,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,45,0,2
+1764761944563,58,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9017,123,1,1,https://reqres.in/api/users/2,58,0,0
+1764761944683,385,POST,403,Forbidden,Thread Group 1-1,text,false,,9138,233,1,1,https://reqres.in/api/users,385,0,0
+1764761945068,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,417,0
+1764761945485,371,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,371,0,0
+1764761945857,95,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9991,332,1,1,https://reqres.in/api/users/2,39,0,1
+1764761945857,40,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,978,209,1,1,http://reqres.in/api/users/2,39,0,1
+1764761945897,55,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9013,123,1,1,https://reqres.in/api/users/2,55,0,0
+1764761946002,386,POST,403,Forbidden,Thread Group 1-1,text,false,,9111,233,1,1,https://reqres.in/api/users,386,0,0
+1764761946388,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,398,0
+1764761946786,358,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,358,0,0
+1764761947144,110,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10021,332,1,1,https://reqres.in/api/users/2,42,0,2
+1764761947144,42,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,42,0,2
+1764761947186,68,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9037,123,1,1,https://reqres.in/api/users/2,68,0,0
+1764761947355,368,POST,403,Forbidden,Thread Group 1-1,text,false,,9121,233,1,1,https://reqres.in/api/users,368,0,0
+1764761947721,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,396,0
+1764761948117,441,put,403,Forbidden,Thread Group 1-1,text,false,,9124,241,1,1,https://reqres.in/api/users/2,441,0,0
+1764761948558,116,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9991,332,1,1,https://reqres.in/api/users/2,56,0,2
+1764761948558,56,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,980,209,1,1,http://reqres.in/api/users/2,56,0,2
+1764761948614,60,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9011,123,1,1,https://reqres.in/api/users/2,60,0,0
+1764761948746,387,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,387,0,0
+1764761949133,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,381,0
+1764761949514,368,put,403,Forbidden,Thread Group 1-1,text,false,,9124,241,1,1,https://reqres.in/api/users/2,368,0,0
+1764761949882,117,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10015,332,1,1,https://reqres.in/api/users/2,54,0,2
+1764761949882,54,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,992,209,1,1,http://reqres.in/api/users/2,54,0,2
+1764761949936,63,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9023,123,1,1,https://reqres.in/api/users/2,63,0,0
+1764761950066,381,POST,403,Forbidden,Thread Group 1-1,text,false,,9109,233,1,1,https://reqres.in/api/users,381,0,0
+1764761950447,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,397,0
+1764761950844,438,put,403,Forbidden,Thread Group 1-1,text,false,,9145,241,1,1,https://reqres.in/api/users/2,438,0,0
+1764761951282,145,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10003,332,1,1,https://reqres.in/api/users/2,71,0,2
+1764761951282,71,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,209,1,1,http://reqres.in/api/users/2,71,0,2
+1764761951353,74,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,74,0,0
+1764761951514,462,POST,403,Forbidden,Thread Group 1-1,text,false,,9132,233,1,1,https://reqres.in/api/users,462,0,0
+1764761951976,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,397,0
+1764761952373,401,put,403,Forbidden,Thread Group 1-1,text,false,,9120,241,1,1,https://reqres.in/api/users/2,401,0,0
+1764761952774,130,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9992,332,1,1,https://reqres.in/api/users/2,42,0,2
+1764761952774,42,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,994,209,1,1,http://reqres.in/api/users/2,42,0,2
+1764761952816,88,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,8998,123,1,1,https://reqres.in/api/users/2,88,0,0
+1764761952965,371,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,371,0,0
+1764761953337,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,357,0
+1764761953694,495,put,403,Forbidden,Thread Group 1-1,text,false,,9144,241,1,1,https://reqres.in/api/users/2,495,0,80
+1764761954189,141,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,9985,332,1,1,https://reqres.in/api/users/2,79,0,2
+1764761954189,80,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,985,209,1,1,http://reqres.in/api/users/2,79,0,2
+1764761954269,61,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9000,123,1,1,https://reqres.in/api/users/2,61,0,0
+1764761954392,380,POST,403,Forbidden,Thread Group 1-1,text,false,,9115,233,1,1,https://reqres.in/api/users,380,0,0
+1764761954773,0,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,412,0
+1764761955185,360,put,403,Forbidden,Thread Group 1-1,text,false,,9128,241,1,1,https://reqres.in/api/users/2,360,0,0
+1764761955545,105,DLT Request,403,Forbidden,Thread Group 1-1,text,false,,10007,332,1,1,https://reqres.in/api/users/2,43,0,2
+1764761955545,43,DLT Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,988,209,1,1,http://reqres.in/api/users/2,43,0,2
+1764761955588,62,DLT Request-1,403,Forbidden,Thread Group 1-1,text,false,,9019,123,1,1,https://reqres.in/api/users/2,62,0,0
+1764761955740,408,POST,403,Forbidden,Thread Group 1-1,text,false,,9134,233,1,1,https://reqres.in/api/users,408,0,0
+1764761956148,0,Transaction Controller,200,"Number of samples in transaction : 

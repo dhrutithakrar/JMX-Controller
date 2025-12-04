@@ -1,0 +1,3 @@
+1764767669708,592,Dummy HTTP Request,200,OK,Dummy Thread Group 1-1,text,true,,792,114,1,1,http://example.com/,585,0,39
+1764767670315,491,Dummy HTTP Request,200,OK,Dummy Thread Group 1-1,text,true,,792,114,1,1,http://example.com/,491,0,3
+1764767670807,510,Dummy HTTP Request,200,OK,Dummy Thread Group 1-1,text,true,,792,114,1,1,http://example.com/,510,0,2
