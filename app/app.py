@@ -126,17 +126,11 @@ def upload_jmx():
 
 @app.route("/start", methods=["POST"])
 def start_test():
-    data = _safe_json()
-    sid = data.get("session_id")
-    
-    # Vercel demo mode - no JMeter
-    # FORCE DEMO MODE FOR VERCEL (works 100%)
-    if True:  # Change to True temporarily
-        return jsonify({
-            "message": "demo_started", 
-            "session_id": sid,
-            "status": "running"
-        })
+    return jsonify({
+        "message": "demo_started", 
+        "session_id": request.json.get("session_id", "demo"),
+        "status": "running"
+    })
         
     #if not sid or sid not in SESSIONS:
     #    return jsonify({"error": "Invalid session"}), 400
