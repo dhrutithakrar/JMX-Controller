@@ -15,6 +15,9 @@ from app.parser import JTLParser
 from flask import jsonify
 from flask_cors import CORS
 
+# Add at top of app.py
+IS_VERCEL = 'VERCEL' in os.environ
+
 # Point Flask to templates/static inside app/
 app = Flask(__name__, template_folder="templates", static_folder="static")
 CORS(app)
@@ -124,10 +127,19 @@ def upload_jmx():
 def start_test():
     data = _safe_json()
     sid = data.get("session_id")
+    
+    # Vercel demo mode - no JMeter
+    if IS_VERCEL:
+        return jsonify({
+            "message": "started (demo mode)", 
+            "session_id": sid,
+            "warning": "JMeter disabled on Vercel demo. Full features on Docker."
+        })
+        
     if not sid or sid not in SESSIONS:
         return jsonify({"error": "Invalid session"}), 400
 
-    entry = SESSIONS[sid]
+    entry = SESSIONS.get[sid]
     if entry["status"] == "running":
         return jsonify({"message": "Already running", "session_id": sid})
 
@@ -313,6 +325,18 @@ def stop_test():
 
 @app.route("/status/<sid>", methods=["GET"])
 def status(sid):
+    if IS_VERCEL:
+        return jsonify({
+            "status": "demo",
+            "elapsed_s": 10,
+            "running_vusers": 5,
+            "hits_sec": 12.3,
+            "passed_txn": 45,
+            "failed_txn": 2,
+            "errors": 0,
+            "throughput_bps": 1234.5,
+            "avg_response_ms": 156.2
+        })
     entry = SESSIONS.get(sid)
     if not entry:
         return jsonify({"error": "Invalid session"}), 404
