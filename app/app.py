@@ -16,7 +16,7 @@ from flask import jsonify
 from flask_cors import CORS
 
 # Add at top of app.py
-IS_VERCEL = 'VERCEL' in os.environ
+IS_VERCEL = 'VERCEL' in os.environ.get('VERCEL_ENV', '')
 
 # Point Flask to templates/static inside app/
 app = Flask(__name__, template_folder="templates", static_folder="static")
